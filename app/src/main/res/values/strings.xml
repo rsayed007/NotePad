@@ -1,0 +1,1366 @@
+<resources>
+    <string name="app_name">Writting Assistant</string>
+    <string-array name="lesson_list">
+        <item>Day 1</item>
+        <item>Day 2</item>
+        <item>Day 3</item>
+        <item>Day 4</item>
+        <item>Day 5</item>
+        <item>Day 6</item>
+        <item>Day 7</item>
+        <item>Day 8</item>
+        <item>Day 9</item>
+        <item>Day 10</item>
+        <item>Day 11</item>
+        <item>Day 12</item>
+        <item>Day 13</item>
+    </string-array>
+    <string name="title_activity_day04">Day04</string>
+    <string name="title_activity_day10">Day10</string>
+
+    <string name="exam1"> <b>Exam Paper-01:</b>
+        \n\n1.	What is content?
+        \n2.	Who is a content writer?
+        \n3.	What\’s the demand of content writings?
+        \n4.	What\’s the future of content writings?
+        \n5.	Is there any opportunity to make a career on this profession?
+        \n6.	“Creating content is not an easy task”-Describe it within 100 words.
+    </string>
+    <string name="exam2">
+<b>Exam Paper-02:</b>
+\n\n1.	“Writing is an art” describe it within 150 words.
+\n2.	How you can achieve native tone inn content writings?
+\n3.	What should you follow to make your content great?
+\n4.	Which things you should include to make a better content?
+\n5.	Is headline is essential to write content?
+\n6.	What\’s the importance of headline?
+\n7.	How headline convince a reader to click on the content?
+</string>
+    <string name="exam3"><b>Exam Paper-03:</b>
+\n1.	\”Content is king\” describe it within 100 words.
+\n2.	Is it possible to imagine a website without content? If not,why?
+\n3.	\”Headline is the half of content\”-describe it within 100 words?
+\n4.	Is Urgency important to create a headline?
+\n5.	Write 15 headlines maintaining the given rules.
+\n6.	\”Without headline content is valueless\”-150 words.
+</string>
+    <string name="exam4">
+       <b> Exam Paper-04:</b>
+\n\n1.	Which things will help you to make your next content viral?
+\n2.	\”Title is everything for content\”-Write it within 100 words.
+\n3.	Which things you should follow for getting more click on your headline?
+\n4.	Write some amazing titles ideas to make your content interesting.
+\n5.	Why headline is so important
+
+    </string>
+    <string name="exam5">Exam Paper-05:
+\n\n1.	How to write content like a pro writer?
+\n2.	Write 9 content marketing tips.
+\n3.	How to make your content go viral?
+\n4.	What is content marketing?
+</string>
+    <string name="exam6">Exam Paper-06:
+\n\n1.	How to write massive content?
+\n2.	How to be an artist?
+\n3.	What types of content do you like most?
+\n4.	Did you write content before?
+\n5.	Do know about review content?
+\n6.	What is the main motto of informative content?
+</string>
+    <string name="exam7">Exam Paper-07:
+\n\n1.	What is introduction of content?
+\n2.	What is the importance of introduction?
+\n3.	Which things a writer should include on introduction?
+\n4.	What is the relationship between headline &amp; introductions?
+\n5.	Without introduction can you imagine content?If not, why?
+\n6.	\”Introduction works likes the first aid box of a content\”-Describe it within 150 words.
+</string>
+
+
+    <string name="Notes">   “Rome wasn\’t built in a day.”You must keep in mind that it just a guidelines nothing else. I can give your skill guarantee only when you will promise about using our guide according to our instructions.You can’t be wise if you have a lot of books. Instead, you need to read the books. Like that you must cultivate this app from the core of your heart with utmost concentrations. Let’s Continue!Be a writer! \n \n Thanks- \n Writing Assistant </string>
+    <string name="intro">  Writing is an art that no one can achieve overnight. Instead, it needs to do heart and soul labor to make yourself an artist. \nJust for making you an artist writings assistant is here to help you! \nOur motive is to give you a professional online career nothing else. \nSo stay with us and enjoy all our included features for better learning. \n“More you learn, More you earn.” \nHappy Journey on Writings! \n \n Writing Assistant</string>
+    <string name="day1Task1">
+            How to Troubleshoot Low Water Pressure In The Shower
+            Do you know how to troubleshoot low water pressure in the shower? If you don’t know there is no problem. Because, I’ll provide you some important information. By this information you will be able to solve your problem.
+            If you already know about it then I’ll also told you that, don’t move from here. Because I’ll provide you some secret information what you didn’t know yet. Just stay with us and read this content carefully.
+            Why Does Your Shower Have Low Water Pressure?
+            First of all we have to know the main reasons of low water pressure. Low Water Pressure can be caused by many things. There are multiple causes of low water pressure. But there are also many ways that you can troubleshoot your problem. Let’s know the reasons and solutions for this.
+            Blocked Shower Heads
+            Showerheads can also accumulate mineral deposits from hard water over time, decreasing the volume and flow of water through your showerhead. The problem could be blocked Shower Heads.
+            Solutions: You can remove mineral deposits from your shower head by unscrewing the detachable showerhead component and soaking in a bowl of vinegar for at least eight hours. You can then scrub remaining deposits away with a toothbrush or a toothpick. This can help improve the flow of water through your showerhead.
+            Too Much Demand On The Water Supply
+            If you\'re in the shower while the dishwasher is running or the toilet is being flushed, your water supply is being directed to two different place. The pressure is basically being diluted. And some of the water that would have gone to the shower is being sent elsewhere.
+             If your shower water pressure increase and return to normal when no other water is being used, this is probably the issue.
+            Solutions: Don’t run for other water when you’re in the shower. Just keep clam and wait some minutes.
+            Problem With The Main Pressure
+            Low water pressure in your shower may be a result of low main water pressure. Whilst the water meter valve is generally the responsibility of city. If plumbing work has been done on your system.
+            If possible this valve is not fully opened. On the homeowners side of the water meter. There’s also the main shut off valve and in line valves that may also be partially closed.
+            \nSolutions: A qualified plumber can check and evaluate the water pressure through your main supply and help you discover what might be contributing to low water pressure.
+            \nSome Tips\n
+            \n•	Call Your neighbor to see if they are experiencing water pressure issue too. If they are, there may be a leak in the lines. Call the water department to report the issue.
+            \n•	Ask a plumber to check the water lines within your home or building. Older water lines sometimes become clogged or filled with mineral deposits. When this happens, replacement of your lines with copper or PVC piping to restore water pressure is necessary.
+            \n•	Pay attention to when your water pressure fluctuates. Water pressure can decrease during times more people on your line use water.
+            Conclusion
+            \nA good shower Can help you to get moving in the morning. And it also can refresh you after a good workout long day for work. This is very important. But low water pressure in shower is more common problem now. And this is so boring.
+            \nBy following this way you can troubleshoot low water pressure in the shower. I hope, through this content you could be find out your problem. And also we will be able to solve your problem now.
+
+    </string>
+    <string name="day1Task2">What is the tallest toilet you can buy?\n\n
+
+        There are many toilets in the market now a day. People often got confuse which one they should buy. A regular toilet or the tallest one which is better and which the difference between the two. Now the question is what is the tallest toilet you can buy? Or is the regular one is better for your everyday need.
+        When you are shopping for a toilet one thing keep in mind that you invest for long time purpose. So the price tag is not important here. The important is which you need in a toilet such as comfort, height, flushing system or other thing. You of course have some list of your need. Here we show you the difference between the tallest toilet and regular toilet.
+         The difference between the tallest toilet and regular toilet
+        The main difference lies between the two is height. A regular toilet normally has a seat which is fifteen inches tall. Where as a tallest toilet has a seat of seventeen inches from the floor to the seat. It sometime crosses the seventeen inch plus depending on seat you choose. On the other hand, the regular toilet is not able to give you these extra two inches height.
+        In general sense two inches seems to be very low difference but it brings large benefit. Especially for those who are tall in height and someone who is aged in race.
+        More over most of the tallest toilet comes with ADA compliant. Usually speaking ADA stands for American disabilities act. More clearly it enacted to protect the right of the disabilities people. While the regular toilet is in absent of this feature.
+        Particularly saying, in ADA compliant it is compulsory that a seat must be 17” to 19” high from the floor to seat. On the contrary regular toilet is limited within the height of 14” to 15”.
+        What is the reason behind buying a tallest toilet?
+        Tallest toilet can be good for knees and back and offer real advantage for all type of people.
+        Although the tallest toilet only 2 or 3 inches high than regular toilet but it will help mostly the tall people to get up and down from the toilet.
+        In addition the aged people get highly benefit from tallest toilet.  At old age it is natural to having a knees and back problem. But tallest toilet helps them in many ways to avoid this pain while they use it.
+        If anyone becomes handicapped or some other health problem like- broken ankle, broken leg or hand then tallest toilet help those most. As it is tall in height one can easily use it and this one also helps to access with a wheel chair.
+        A tallest toilet also might be helpful for assisted a flushing system by making push down on the handle easier. This favors bring advantage for those who are handicapped or somehow unable to use their full hand in flushing time. The flushing system also helps normal people to make the flush easier.
+        Though tallest toilet help tallest people or aged person in various way. It does not mean that it is not suitable for short people or young one. It is good one for all sorts of people with all ages.
+        Advantage of tallest toilet
+        It helps with hip, knees, back related punctuality
+        Perfect for aged people
+        Bring great benefit for handicapped people
+        Make comfort for tallest person
+        Conclusion
+        Invest money for a toilet is a big deal. As it is investment for a long time and everyday need. Before buying a toilet you have to make sure for what benefit you are looking in toilet. As the above we are discussing and try to show you what is tallest toilet and for what reason you can buy this.
+    </string>
+    <string name="day1Task3">Top Valuable Unknown Information About Shower Curtain With Pockets\n\n
+        Do you know about shower curtain and it’s benefits? If you don’t know yet there is no problem. Because I’ll provide you some top and best information about shower curtain. If you already Know about it then also no any problem because I’ll provide you some unknown and very secret information which you didn’t know yet.
+        If you want to know about this secret, just keep it up our touch.
+        What Is Shower Curtain?
+        First of all we have to know about shower curtain and shower curtain with pockets. Shower Curtains are essential bathroom items, typically made from vinyl, fabric or plastic. It prevent water  from spilling onto the bathroom floor and provide privacy while you take bath or shower. It has hung with hooks or rings from railing or curtain rods.
+        Importance Of Various Shower Curtain
+        If you choose a fabric curtain, you may need to purchase a shower curtain liner help to protect your new Curtain.  Fabric Curtains are usually  machine washable. While plastic and vinyl curtain can be wiped clean. After each shower, make sure to close the curtain completely to prevent mildew and allow it to dry more quickly.
+        Benefits Of Pockets Shower Curtain
+        If your shower doesn’t have enough space for a shower candy, then you can use shower curtain with pockets. It can help you stay organized by providing the additional storage which you need in your shower.  In this case you can use Maytex Mesh Pockets PEVA Shower Curtain. It is a very beautiful shower curtain in my eyes.
+        Because, it features nine mesh pockets to organize kid\'s toys, sponges or other personal care items. You can use the curtain with the pockets facing in or out. So, you can easily get everything you need while you take shower. Each Pocket no more than one pond. Also you can simply wipe the clear chloride-free PEVA vinyl curtain with a damp cloth to keep it clean.
+        It’s features 12 rustproof metal grommets. And can be used with standard hooks and liner (not included).
+        Shower Curtain With Pocket For Phone And Tablets
+        You can use shower curtain with pockets for Phone and Tablets. This is a fashionable and obviously a important shower curtain. Because, you can watch, play or listen to your phone or tablet in the shower. And this is 100% waterproof shower curtain. Even you can also use camera.
+        Features multiple phone and Tablets sized pockets on outside to hold your device. Different height levels for everyone from talk adults to children. Touch interaction from the inside of the shower or bath. You can change songs, play games and scroll the news. Also, you can stay connected while wet.
+        Conclusion
+        The first thing you see when you enter you enter your bathroom is probably the shower curtain. Your shower curtain may seem like a thoughtless purchase. But it’s actually something that deserves some consideration. Your bathroom is one of the most intimate place in your home. And shower curtain tends to be the highlight of it.
+        Already I discussed about Top Valuable Unknown Information About Shower Curtain With Pockets. I hope you have to know about it and it will be benefited for you.
+    </string>
+    <string name="day2Task1">
+How to process Food by Water Bath Canning
+Not all the fruits are available throughout the year. Some are, but they vary tastes according to the season. For the blessings now we can grow fruits in summer which generally grows in winter. But they don’t taste well. Good news is, we can preserve food for a long time and have the same taste over the year. Water bath canning is now very easy and simplified when it comes to protecting food. Most people are using it to process fruits, vegetables, jams, jellies, chutney, and pickles at home. Step-by-step instructions are given below:
+Necessary equipment
+You can find home canning kits in hardware stores and online as well. But most of them you already have in the kitchen. Still, if you want, you can buy the followings:
+	Canning jar and lids
+	Large Pot
+	Rack that fits inside the pot
+	Flexible spatula or chopsticks
+	Canning funnel
+	Jar lifter
+	Clean towel
+Step 1
+First of all\, you need to wash canning jars with hot soapy water and rinse them properly.
+        Step 2
+Now put all the jars and add water to cover them in a way that the lid stays one inch below the water level. Keep the pot until the temperature is 1800 F and simmer it for 10 minutes. Then bring down the jars and dry them.
+Step 3
+        Fill the jar with your processed food to within one or half inches to top of the rim.
+Step 4
+        Then use spatula of chopstick couple of time on the inside to get rid of the air bubbles. Make sure that there are no air bubbles then put more preserve and repeat the same.
+Step 5
+        Before placing the lid, you have to wipe the rim to ensure proper sealing. Then tighten the band until you feel it\'s properly tightened.
+Step 6
+        After that put the jars again in the hot boiling water. Check the water level carefully; it must cover every jar by 1-2 inches. If not add more water and keep them for at least 10 minutes for boiling.
+Step 7
+        Now it\’s time to take them out from the pot and keep them on a towel and leave to cool for 12-24 hours.
+Step 8
+    Time to check the seal, to do that press on a finger on the center of a jar, it doesn\’t popped-out you have a good seal. Otherwise, refrigerate those jars for three weeks.
+Conclusion
+To sum up, water bath canning is the easiest way to store preserve food at home. However, it\\’s essential to know that high-acidic foods including- jams, jellies, and other fruit, etc. can be preserved by this process. You need to make sure that the recipe is tested and safe to go along with this procedure.
+
+
+</string>
+    <string name="day2Task2">
+        Shop the Best Quality Power Bank Online: Buy From Bangladesh at Bagdoom\.com
+        Link: https://www.bagdoom.com/electronics/mobiles-tabs/power-banks.html
+        Do you ever face that you have gone on a long trip for enjoyment and clicking pictures, hearing music, sharing the moment with your friends through social media? And at that stage out of a sudden, you see that your phone is almost dead or low battery. Well, you do not have to face the situation if you would carry a power bank with you. And for that, you have to come to the right place. With the power bank, you can charge your phone from anywhere you want.
+        A power bank is also known as backup battery storage, which you will charge up like you used to charge your phone. So if you face that your phone’s battery is almost complete, your charged power bank will help you to get your phone loaded back again without any direct power supply. And most importantly the best news is that the favorite online store of yours which is known as Bagdoom is offering now the best Power Banks which you can afford without any hesitation.
+        Why Do You Need A Power Bank?
+        If you play a lot of games or watch a lot of movies or spent a lot of time with your phone, it is evident that your phone’s battery will be dead because of too much pressure. People like you who are game freak or movie freak or does a lot of jobs using their phones, they are already using power banks, or they are going to buy it soon. Having a power bank can make your phone’s battery last longer.
+        Suppose you are doing important work of your client, at that moment your phone shows that your phone’s battery is almost dead, but you have to submit the job immediately. So at that time if your phone turns off, it may become a bit tough for you to handle that client. But if you use the Power Bank, you can directly connect your phone with the power bank and let it charge your phone, and you do your work. Won’t that be great?
+        You can spend time comfortably anywhere you want. If you have lots of work to do or you want to play a multiplayer game or watch a movie outside of your home in a calm place. You can surely do it if you have a power bank you, which will help you to keep your phone alive and charged for some long duration. All you need is to keep it to charge throughout the whole night. Power Bank is different according to their Amh. The more Amh power bank you buy, the more power it can give you to your phone. But it will take more time to charge the power bank itself.  Higher Amh power bank can provide you service a whole single day so you can use your phone anywhere you want.
+        Why Do You Have to Choose Bagdoom.com?
+        The very trustable online retail site is now offering all the finest brands of every kind of power banks. Bagdoom is very much fond of their customer feel when they can get an excellent product from the online retail shop in Bangladesh. Though Bangladesh is not very popular for the gadgets and none of these products are made here still, you can regain your trust and buy the right device you want from Bagdoom. There are no fake products on Bagdoom.
+        This online retail shop assures you the best quality of any products at an affordable price throughout the whole country. You will also find offers which are 47% discount. Power Bank can sometimes be expensive as well because they all are providing some great and useful thing in return. But Bagdoom is letting you find the best product which is within your price range.
+        Every Power Bank has its features as I told you before. You can quickly search by filtering the requirements you want or the features you want. And after selecting the option, you can easily find the power bank you have wanted. But the matter of fact is, you will get more guide so that you can choose the best one.
+        Conclusion:
+        Make your phone battery stay long. That\'s why you can use it as much as you want. Even the best quality power banks are now offering Bagdoom. Take out the Power Bank. And plug it with your phone using the data cable. It will automatically start charging until your phone gets fully charged. Do works without any hesitation because power bank will always be there to give back up to battery life.  For this backup, you won’t find a better online marketplace than Bagdoom. The most trusted source which knows very well what you need.
+
+    </string>
+    <string name="day2Task3">
+        Best Smokers 2018\n\n
+
+        Why You Need Them?
+        If you are a BBQ lover, you probably feel the need of the Best smokers. They are great as a cooking companion. Especially for the folks who like to experiment with food can enjoy a variety of juicy sausages and smoked pork or beef. On different meats these smoking and cooking methods keep differing. The smokers give a lot of convenience to the cooker. Some smokers provide various features. If you want professional level cooking skill, then you might want to get one. Also, they can smoke nuts and veggies when you need to. Once you get them, you’ll find a lot of dishes available for your family and friends.
+        How Do They Work?
+        Most of them use wood or charcoal to smoke. There are a few that use propane to get the flame for meat smoking. There are some options available for smokers. The number of benefits and convenience is high since they are super usable. Newer generations smokers are modern and well equipped with the latest technology. So the most important thing is, which one is the best? The situation might vary for different type of smokers.
+        Steps to Purchasing
+        So you are aware of the basics. Next, you should know what the ideal smokers offer. Are they going to fulfill your needs? There are so many options to choose and buy. But the best one would have a bunch of factors. And that’s the next thing you’ll have to do. See and look for a smoker that matches the maximum usability.
+
+        Easy to Use. Best smokers are easy to use and operate. You might be someone leading a hectic life. Now definitely people want to have the most straightforward solutions to a problem. And mostly, a simple way to cook is the most important thing. By determining the simplicity, a user decides the probability of using it more times. So you need to consider the materials you are going to use for smoking. You need to figure out if the content will impact the smoker process. You need to figure out which way you’ll get the best smoking smoothness. If you get a smoker hard to deal with, you’ll get discouraged. The process should not be too tedious.
+
+        Accessibility. You won’t be using your smoker only at home. You might want to take it with you into a family picnic or party. Depending on individual preference, you need to figure this point out. A smoker that is portable is ideal for a situation like this. Make sure you double check the feature and buy a light one.
+
+        Worth: A smoker must have the best build quality. Otherwise, you would have to suffer later. A good quality smoker uses hard materials for construction. That provides more extended usage and durability. Most of the good ones use steal as the primary material. This is because it can absorb heat excellently. Also, it helps to spread the heat evenly through the vessel. The great smoker will also have a door that evades the smoke to escape the chamber.
+
+        Knowing and Studying More: Before you make your final purchase, you should research a bit. Try to examine a few online smokers. Have a look at forums and conversations. When you choose one, go to the official website and learn more. Some friends and coworkers already own one. If you get a chance try to talk to them. They will give you their experience and suggestions that will make the process even better.
+
+        Considering Factors
+        You have read about the essential factors. Now once you are sure to buy a smoker you need to move ahead. You are not alone confused about hiring the best one. There are some types available to choose from. Here you need to figure out some points to find your perfect choice. So what are they? Let’s elaborate in details.
+
+        Size of the Smoker
+        There is some size option available for the different purpose. You need to consider the space you would require. What is the volume of the meat you are going to use in it? Try to mull over this question. Since you need to figure out the size of the smoker. You need to pick a large one if you live with your big family.
+        On the other hand, a small size might be perfect if you live single. Also, the size should vary to the location you are going to store it. If you have a small apartment with no space to hold a large smoker, you should not go for the bigger versions. A more massive smoker is ideal for big events and festivals. If you are professional needing to make a lot of meat, then the big size is a must. In short, this note depends on your situations.
+
+        The Price Tag
+        The prices of the Best smokers vary according to the features and usability. But you should have a budget and mindset of spending a fixed amount. It is not essential to get a costly smoker. Since that doesn’t define the overall quality and functions. The price tag should be something that approves your ability. And also you should not be too greedy to fall into the trap of choosing a cheaper one that guarantees hundreds of features. You need to find out facts and realities and then buy the reasonable smoker.
+
+        The Cover of the Smoker
+        Now when you choose to go for a smoker that you need to keep outside, you’ll have to make sure a factor. Does it include a good covering? Understand that the weather might harm the smoker. And you don’t want your pricey smoker to damage too soon. If that is the case, remember to check the covering. If the smoker doesn’t come with one, buy one. A tarp to cover the smoker would definite the smoker existing for a more extended period.
+
+        Which Type You Need
+        This question has a different answer for a different person. If you are someone with a busy schedule than an electric smoker would suit you. Since you do not have the chance to check your meat often throughout the day. With the electric smoker, you can use the start it and forget it usability. Starting it up and setting a temp is the first thing. Next, you insert a thermometer, and that’s it. You’ll find out when the process is over quickly. And that is the most suitable way for busy bees.
+
+        Water smokers are also one of the Best smokers and popular choice. They have a pan in between the food and fire. That way they help to upkeep the low temperature. And that is the reason they are called water smokers. This type isn’t the perfect type. But then again, with a few regulations, they can be a good meat smoker. The price is less than ceramic cookers. And so, they are quite affordable ones.
+
+        The side box type is also prevalent ones. Since with this, you get the capability to use it as an ordinary charcoal grill. Also, this kind has a variety of price options. You can even try building it if you can manage thousands of dollar. Professionals and dedicated chefs are more likely to pick this type.
+
+        Now if you are someone wanting to go for the best in best choice than the Big Green Egg is the one. It is the best ceramic smokers out there. Also, it is quite easy to use them with the whole design. The fuel model is very efficient and excellent. With this kind, you can pay less for charcoals. Since they need less coal. However, the price is a bit high. You need to have seven hundred dollars at least. That is the smallest size’s price.
+
+        Now you need to figure out which type you are most comfortable with. Do you think you’ll be able to check meats often? Do you find yourself still learning BBQ? What level are you at, a beginner or veteran? These are the questions you need to ask yourself. And then, you would be able to go in the right direction.
+
+
+        The Best Gas Smoker
+        A gas smoker can be the perfect one for all the BBQ lovers. They make great meats and other dishes for your family. However, choosing the best gas smoker can be a little tricky. There are a few simple steps to follow. This way you are most likely to get the best gas smoker for your house. Also, they are suitable for outdoor uses.
+
+        Choosing The Perfect Type of Gas Smoker That Suits Your Cooking Needs And Style.
+        There are two types. One uses the natural gas and the other needs propane. The folks who are more into outdoor activities should go for the later one. The propane type can be a smart choice since they are very portable. You need to hold the fuel tank and the smoker itself. And that’s enough for the best BBQ experience outdoor. The only thing bad about it is that it stops in between the cooking sometimes. Since they run out of fuel. But you can have an additional tank with you. You should check every thirty minutes for the flame. Make sure it is burning correctly.
+        The other type is okay if you need a smoker for home. This is ideal for the house that has an outdoor kitchen. Since the smoker produces a lot of fuel. The only bad thing is it isn’t transportable.
+
+        Checking the Cost
+        When looking for the Best smokers, you are more likely to spend a few more than you expect. However, if you are thinking to go for gas smoker be ready to pay from a hundred to six hundred dollars. This price depends on the features and types you choose. You must check a few websites and compare the prices. I think Amazon has no alternative for itself. It is one of the sites with the best price range. Also, you can check at local stores and see if they allow negotiation. Do not feel discouraged to ask for a discount. Also, there is free shipping available at some website. Make sure to check for it.
+
+        Get to Know the Various Features
+        To maximize the equipment, you need to check the critical functions of the smoker. The standard and basic features must be present, and there’s no doubt. A few of them are adjustable cooking grids, anti-heat door and handle with steel water pans. Also look for the ones offering a good warranty. At least they should offer ninety days return policy. Do not neglect this point. It is imperative if you do not wish to buy another in a brief period. Also, know what extra cost you might face maintaining the smoker.
+        Getting a gas smoker can be the best choice you make. You would have a great time with your family while enjoying the delicious BBQ.
+
+        Best Electric Smokers
+        An electric smoker is the most simple to use than the other best smokers. But you have to choose very wisely. Only then you’ll be able to enjoy the full benefits. This is because each of the features has a significant impact on the outcomes. And so choosing an electric smoker needs your attention. Some necessary details you need to know are:
+
+        The Manufacturer
+        There are a few companies that provide the Best smokers. No doubt here! I\'m not partial; this is a fact. And you should also take notes and find out which company is more popular and reliable. Do the brand provides practical solutions to their consumer’s needs? This is the very first question. Some companies offer the best stability and reliability with the most beautiful functional appliances. You should pick a brand that has a good reputation. They should have some experience and also they must have happy customers. This would make sure that the smoker you get lasts for a longer time.
+
+        The Heat Adjustment
+        This smoker can let the user pick a desirable temperature. You can easily adjust the temperature. You get this without the effort or intervention. This is possible with two different methods. One component is the thermostat, and the other is known as a rheostat.
+        On the first type, a thermostat helps to run the smoker effortlessly. And the other kind uses a rheostat instead. When the temperature decrease on the first type, the functioning also stops. But then again, it gets started when the minimum temperature is reached. The second type only can reduce the temperature for adjustment. The first type is more preferable by people since they are more comfortable. That allows for electricity savings with minimum heat fluctuations.
+
+        Practical Provisions
+        Best smokers provide the best functionality. And the case is similar to the electric ones. The measurements are several. It depends on power supply conditions, storage ability, and materials. Also, the other factors are overall size, electricity consumptions and so on.  The choice should be simple for electricity consumption. You should choose the one with minimal rates.  This way you do not need to differ on home electrical networks.
+
+        Inferior capacity leads to saving electricity. They are also faster. This is a good pick if you want to attend the new visitor suddenly paying a visit. And for construction and material, you must depend on reliability. Also, check out the quality of the content.
+
+        Deciding the Budget
+        The price will define the features and abilities. So here you must not consider anything cheaper. Yes, reasonable is fine. But don’t be opting for a more affordable version. Since a few will fail to meet your expectations. This is not a product that you would be able to replace too often. And so you need to consider a budget that isn’t too low nor too high. Most of the time, for saving a few bucks we invest on the wrong stuff. And later we pay more repair and maintenance. So you should keep the point in your mind. If you do not want to spend more on electricity bills, consider spending on an averagely priced smoker.
+
+        Comparing the Smokers
+        Go through the details. Try to analyze everything. This way you would naturally meet the most suitable one for you. This step is a natural mechanism that you are definite to follow. Once you read details and info, you would automatically choose the one that suits the best with your requirements. You should not rush to make a choice. See four to five electric smokers and vary the main features. Also, change the price and worth.
+
+        Thirteen Facts about Smokers You Need To Know
+        To make your purchasing journey more comfortable and accurate, here are a few facts that would help you. This thirteen facts you need to know about.
+            The smoke created gives the dishes a very different but pleasant taste.
+            The offset dry smokers and vertical smokers are also two options available. These types are preferable by the younger generation.
+            If you do not want it as valuable cooking equipment, you need to avoid commercial ones. They are mostly for professional chefs out there. Not every smoker is helpful for everyone.
+            There are a few models available that run both on gas and electricity. Also, you’ll get other smokers using different combinations.
+            The vertical ones use direct heat from fire right beneath.
+            The instrumental versions differ in term of power source and usage.
+            To serve a large number of people you can go for custom-made smokers. You can use the unit custom-made for home usage. This is suitable if you have weekend parties and festivals with your large family.
+            The bigger ones include trailer smokers. This type is more known for proper airflow. This type provides an overwhelming flavor that is unmatchable.
+            There are a few rare models both portable and commercial. Also, they are less likely to need constant observation.
+            You can have the less priced smoker for one hundred and a fifty dollars. That’s the minimum price you have to spend if you wish to own one smoker.
+            The accessories for smokers often comes with the gear. However, there are a range of outdoor fixtures that are easily obtainable for a few bucks spent.
+            The usage of wooden pellets differs in different smokers. So it is wise to consider and check the feature to get the most delicate flavor.
+
+        Why Shopping Online is An Ideal Choice!
+        You can get local stores that offer quality smokers. There are dependable manufacturers available. To find out the maximum features and reliability, using online sites can be convenient. Just make yourself a cup of coffee. Sit in front of your desktop or laptop. And go through multiple websites that offer the brand and model you opt for.
+        You would find some websites offering you free shipping. Also, some of them let you check user reviews. You would be able to read what other consumers feel. This way, you are more likely to choose the most exceptional smoker suitable for your needs. And the most beautiful part, you can do this anytime any day. No matter if you are a busy employee. You would be able to spare a few minutes to check the items online. This way you save more time and energy than visiting the store.
+
+        How to Get Best smokers for the Cheapest Price
+        If you want to get the lowest price you need to turn on your detective characteristic. This would require a bit time and patience. But if this saves money, why not? You should look for sites that sell lots of smokers. They are more probable to offer low prices. Then cut your list down by the sites that provide excellent discounts. Compare some of them and see which one sounds more reasonable. It’s as simple as that even if it needs time. But it is worth the energy if you can get yourself a price cut.
+    </string>
+    <string name="day3Task1">Looking for a top performer scope that can make your expectation?
+    If yes; then you have come to the right place.
+    In a word, the market is flooded with spotting scope options to choose from, which makes the selection process a daunting task. The Nikon monarch spotting scope review will be useful for you to find a perfect spotting scope.
+    Today we are going to discuss some of the most amazing features and benefits of this Nikon scope.
+    So let’s get a start.
+    Nikon Monarch Spotting Scope Review 2018
+    A few words about spotting scope
+    Generally speaking, a spotting scope is another type of telescope. While the telescope used in the night, a spotting scope used in daytime.
+    The spotting scope is smaller than telescope as well as portable. People often get confused with the spotting scope, binocular and telescope.
+    However, the spotting scope is ideal for travel with. The primary purpose of scope is including wildlife observation, surveillance, searching the distant object, landscape viewing as well as for bird watching.
+
+
+    Product specification at a glance
+    ●	Color: Black
+    ●	Magnification: 20-60x
+    ●	Objective Lens: 82 mm
+    ●	Item Weight: 4.8 ounces
+    ●	ED Glass: Yes
+    ●	Scope Body Type: Angled
+    ●	Length: 325 mm
+    ●	Close focus distance: about 17 ft
+    ●	Exit pupil: 4.2 mm
+    ●	Eye relief: 16.1 mm
+    ●	Product dimension: 13.1 x 4.3 inches (L x W)
+    Some Noteworthy Features and Benefits
+    Rather than using a regular spotting scope at a high price, it is easier to buy a complete compact package of Nikon monarch spotting scope. It is incredibly angled in viewing and worth to invest. Let’s see some of the important features and benefits of this Nikon spotting scope.
+    Advanced Sophisticated Optical Technology
+    The first noticeable feature of this Nikon spotting scope is its legendary sophisticated optical system. This technology ensures fabulous visual experience. On the other hand, Apochromat ED glass brings true color and top class integrity of high resolution.
+
+    Field Flattener Lens
+    Thanks to its flattener lens. This one is one of the unique features of Nikon. That gives incredibly sharp image and ensures absolute focus as well as go to go sharpness. At the same time, offering exceptional clear and sharp image with this innovative technology.
+    Multilayer Coating
+    Nikon monarch scope is so far one of the best spotting scopes out with the distinctive feature of Natural Color Fidelity. Normally, the prism usually made of two different prism glasses that are optically cemented all together to form a V-shaped assembly. So it will be suitable if you want to reflect it and decrease the flare with powerful light-transmission.
+    Good looking Body design
+    You should keep in mind buying a spotting scope is not a matter of brand, but it is a matter of different features that will bring the benefit. There are many scopes in the market can’t hold up the unusual situation and circumstances. Sometimes it is essential to look for because in a spotting scope lots of stability in a straight body for comfortable observation. The feature of the square shape is perfect for fine detail as well as long-distance viewing.
+    Optimized Focusing
+    Being optimize a focusing system, this Nikon spotting scope is different from the rest of the scope in the market. It is great for adjusting fine focus the distant subject. Moreover, it has smooth, effortless focusing and the focusing is pretty fast.
+    MEP Eyepieces
+    The next noticeable feature is its extremely super optical performance. This monarch comes with Advanced MEP eyepieces which deliver top class performance. At the same time, it has 4.2 mm Exit pupil and Eye relief of 16.1 mm which capture a wide field of view.
+    Fully Waterproof
+    Though this feature is not mandatory, it is a significant added advantage in securing the spotting scope.  As you will use the scope on nature, you may have to face the fog and water in the different geographical area with O-ring seal. So it will be suitable for any types of environment.
+
+    What we liked
+    ●	Prevent Fogging
+    ●	A contrast of color-accurate image and rich.
+    ●	A bright detail in low-light condition.
+    ●	High-quality performance
+    ●	Excellent optics and magnification.
+    ●	Limited lifetime warranty.
+    What we disliked
+    ●	The only thing we dislike is it’s a bit high price range.
+
+
+    Insider Tips: this Nikon is not designed for deep underwater usage.
+    Read Related Article: Redfield Rampage Spotting Scope Reviews
+    Frequently Asked Question (FAQ)
+    1.	Question: Is this has the feature of Prism coating?
+    Answer: Yes! The spotting scope has a coating of multiple layers of Prism coating that ensures image quality and superb optical performance.
+    1.	Question: what about the warranty of this spotting scope?
+    Answer: Nikon spotting scope has a limited warranty.
+    1.	Question: Is it straight or angled viewing?
+    Answer: This model from Nikon comes with excellent angled viewing.
+    Alternative /Similar product
+    If you feel the Nikon spotting scope won’t meet all your expectations, then you can try some other spotting scope in your budget. Consequently, these will be useful for you.
+    1. Vortex 20-60 x 85 Razor HD Spotting Scope
+    If you are ready to spend some extra money for the quality, you can try Vortex Razor HD Spotting Scope. It will help you to sustain in any circumstances because it is entirely fog proof as well as waterproof.  Thus it comes with a small high tripod.
+    2. Celestron C5 Spotting Scope
+    Celestron C5 is excellent as a spotting scope. Its total dimension is 10 x 13 x 6 inches and almost 6 pounds in weight. Hence, Celestron spotting scope comes with an excellent optical viewing which is used by NASA in various space shuttles.
+
+    Final Thought
+    To wrap this Nikon monarch spotting scope review up, we could say it is one of our finest spotting scopes because of its flexible, angled viewing as well as superb quality at an affordable price.
+    Nikon is well-known, trustworthy brand across the world by its high quality at a reasonable price. Honestly, it’s hard to find a spotting scope, if you are seeking something affordability as well as functionality in one.  Moreover, we would like to recommend this Nikon Monarch scope.
+</string>
+    <string name="day3Task2">
+                                   SHORT REPORT\n\n
+            What did I learnt from the observation??How to create eye-catchy headline which I gained under this observation by reading the blogs:
+            I read the all 8 blogs and I observed  that that there are many technique to creat a eye catchy heading.I noted some important point about these blogs.
+            Before I write about these I want to tell something  about heading. Headline is the most important part of the article infact they are sometimes even more important  than the article\'s content. So it is very very important for us to know about how to create catchy headline.
+            Headline  is important  for the following  reasons. such as:
+            1.Increase your click Through rates
+            2.Increase engagement
+            3.Grab People\'s attention
+            4.Make your blogs posts more interesting
+            5.Make people reading would, of curse, result in more subscribers
+
+            Lets Talk about my observation....
+
+
+            Now I tell u some important point to create  attractive/eye-catchy headline. The following points are given in below:-Firstly:-
+            ⏺First one:
+            👉The way of drowning an attraction of the reader on introduction for informative content.
+            1.Create shrug idea
+            2.Bombarded  with tons of question
+            3.Foolprof method
+            4.Practical
+            5.promise massive result
+            6.Quick &amp; easy fix
+            7.Smart &amp;amp; savvy/no fluff
+            8.Novelty &amp;amp; Fun
+            9.relating  to reader
+            10.Guides / Instructions
+            11.make curiosity
+            12.Being sneaky
+            13.predict the future
+            14.comparison other
+            15.Playing on fear.
+            16.Basic &amp;amp; good
+            17.awe
+            18.give shock
+            19.The data-driven/proven/
+            20.Announce  exciting news
+            21.Short, simple &amp;amp; to the point.
+            22.appeal  to your reader hunger.
+
+            ⏹secondly:
+            👉The way of drowning an attraction of the reader on introduction for Review  content.
+            1.Find the right outlet
+            2.Read the fine point
+            3.Get your  hand dirty with the product.
+            4.Organizes pros &amp;amp; cons with proper reasoning.
+            5.witing with on your natural tone.
+            6.Don\'t forget other side of the story
+            7.what its benefit
+            8.Advantage &amp;amp; disadvantage.
+
+            After all this I understand that if I want to creat heading than I need some tools to creat catchy headlines.
+            Lets  start to talk about generating tools....
+
+            Okay now I am telling some material /tools which help to creat eye catchy headline. The following material /tools are given in below:-
+            ⏹finally:
+            👉Generator tools:
+            1.Start with working title.
+            2.Stay accurate
+            3.make it sexy/desirable:
+              *have some fun with alliteration.
+              *use Strong language
+              *make the value care
+              *make it visible
+              *Focus on the "whos"not the " whys"
+
+            4.keep Your heading short,
+            5.stay the big benefit
+            6.Use odd number
+            7.use [bracket]
+            8.Use formulas:-
+                 *number+ adj+    keyword +promise+[bracket].
+                 *number/trigger word+ adj+keyword +promise
+                 *who else wants+[ something ]+?
+                 *[number]+ secrets of (something)
+                 *here\'s how +(somebody) + (does something)
+            ......
+            .......
+            .....etc.
+            9.use Marketing  words
+            10.use trigger words
+            11.use adjective
+            12.never mislead
+            13.Add powerful  adjective /strong verb
+            14. Don\'t limit yourself
+            15.survices we offer
+            16Brainstorming with someone else.
+            17.optimaize for search &amp;amp; social.
+            18.Catchy word
+            19.use why,what,how,when,
+            20.dealing with problems
+            21.Tug at emotion.
+             ⏺My problem are:
+            1. cannot understand about working tittle
+            2. use with Alliteration
+
+
+            I hope all these tools help you to provide  a catchy headline.
+            I am thankful  to you for reading my report.
+            Thank you so much.
+
+    </string>
+    <string name="day3Task3">
+        Cuisinart-1000 watt or 1Kw, 6 quart pressure cooker reviews
+        Cooking withCuisinart6quartpressurecookergives  you best way to make smart and fast home cooking is to use pressure cooker and to enhance your cooking experience here is a great option for  you the Cuisinart 6 quart pressure cooker. Now just have a look on the Cuisinart6quartpressurecooker reviews so that you can easilly identifiy whether it is good for your kitechen or not and makes your cooking experiece far better than before. Cuisinart 6 quart pressure cooker is  pressure cooker  that actually complets all its promises.
+         Basically this pressure cooker is availablre in two types Cuisinart CRC 400 Rice Cooker and Cuisinart CRC 800 Rice Cooker. Both of them are different in their weight, capacity and in their KW as both  of the cooker is elecirical one. This cooker is 1000 watt stainless stellpressure  cooker .
+        The cuisinart 6 quart pressure cooker works as a steamer and can cook on both  high as well as on llow heat. This pressure cooker preserves all the nutrients an cooks healthy  and tasty meal exactly in  restaurant style every time. This beautifull preesre cooker is  hassle free and easy to use in terms of  cleaning and maintaining.
+        Important features of cuisinart-1000watt or 1Kw, 6 quart pressure cooker
+        Before moving ahead I must suggest you read all the feature cuisinart 6 quart pressure cooker that make this pressure cooker ideal for regular use. Here are the featured detail of it.
+        Cooks healthy and favourful meal
+        We all know the cooking in pressure cooking is good for health as it stores all the nutients of food and preserves its nutrion value. Do you prefer preparing food in pressure cooker? If yes here is a gadget for you that you must try atleast once. This Cuisinart 6 quart pressure cooker solves almost all of the kitchen hassles. This cooker includes dozon of fuctions which makes our cooking experience easy. It cooks veggetables, chicken, fish, rice, meats etc and   preserves all the protein and add extra flavour to it as it  does not requires boiling or searing for extend periods.  This cooker tenderize and economical cuts of meat
+        Cuisinart 6 quart pressure cooker has buttons for cooking meat, veggitables, soup, rice etc. and reduces the cooking time by 70 percent and  can delay the cooking time  up to 15 hr. This cooker  serves you one of the best  pot for cooking  meal which means, while making the rice you can steam the veggetables,  eggs while making soup at the same time.
+         Cuisinart 6 quart pressure cooker manual
+        When it comes for healthy food the first thing that comes in our mind is steam. But on the same time we don\’t want to compromise with the taste and the nutrion value of the food that we are going to eat in that case this gadget suits best for you. Cooks food very fast even faster then microwave for many foods
+        The cooker has a smooth top with the induction ranges.  It has Cover lock indicator that pressure inside the cooker and  shows when there is pressure inside  and prevents the cover from being opened until the pressure is safely reduced. It comes with a special rack inside the cooker and has a capacity of 6 litres
+
+         For the ease of handling  Cuisinart 6 quart pressure cooker comes with a helper handle. Also, It is easy to care and clean. On regular you can do hand wash only also this cooker is dishwash safe. For more details about the use and funtions this cuisinart pressure cooker manual includes 64 pages instruction and recepie book.
+
+        Easy functionality
+        For cooking options Cuisinart6quartpressurecookercomes with push button control  and it is fully programmed. It is very settings are very easy and you can easily set pressure  Low &amp; High, Browning, Saute, Simmer and  can also eep Warm Setting. This cooker comes with LED countdown display which is very convenient for the users. Sides handles are cool to touch even while working.The 1000watt power range of Cuisinart6quartpressurecooker conserves energy due to the short interval of cooking time.
+        Tools
+         The Cuisinart 6 quart pressure cooker comes different shapes, sizes and capacity and has a cup with measurement mark. Cooker has a rack inside the cooker for cooking two things at the same time. These tools are easy to clean,  good in quality and most  storage friendly.
+        Positive aspects of Cuisinart 6 quart pressure cooker
+        •	The cooker has a cup and a wide spoon inside the cooker which is versatile to use.
+        •	Comes with a metal bowl with a nonstick surface which does not stick food to the base of the cooker easily ,and  if something burnt wahings it is very easy.
+        •	The cuisinart pressure cooker manual of the cooker is easy to read and has the detail instructions of how to cook  and how maintain.
+        Negative aspects of Cuisinart 6 quart pressure cooker
+        •	Be careful while cleaning and end up with unwanted scratches.
+        •	The power cord  is  short.
+        •	You can not use this device outdoor.
+        •	Do not use it under hanging cabinet because in that case the pressue may cause harm to user.
+        •	Never use this pressure cooker for frying or making oilly dishes.
+        •	Don\’t use the cooker other than intended use.
+        How to Maintain the Cuisinart 6 quart pressure cooker
+        If  you follow some basic things properly maintaining a rice cooker is very easy. Here are the tips to maintan it :-
+        •	Proper cleaning :-Each time after use clean the base from inside or outside with a  a kitchen tissue. Clean the pot with proper care and always prefer dry clean with towel and tissue. Take proper care of plug while washing.
+        •	Power plug :- keep a eye on the tempreture because Sometimes the rice may over boil and flow out  from the pot through lid .
+        •	Aviod use of metal  brush or harsh metal scrubs for cleaning :- Don\’t use  harsh metal scrub for cleaning If anything stick on the wall. Instead of scrubing  ssoak it in  water for some while then  clean it.
+        •	Keep an eye on led:- The pressure inside the led is most important thing to keep an eye because excess pressure can lid off the upper led which may cause some serioud injuries.
+        •	Some more tips for safety reasons are as follows
+        	Don\’t  place the  cooker in a heated oven or on any stovetop.
+        	For the protection against  electrical shock, make sure that the cord, plugs and the outer vessel is not immensed  in water or any  other liquids.
+        	Never fill the pressure cooker over 3⁄5 full while cooking because cooking foods expands duringcookingsuch as vegetables, beansand grains so avoidfilling the unit over ½ full. Overfilling may cause a risk of clogging the pressure limit valve and developing excess pressure inside the cooker.
+        
+        Conclusion
+        Cuisinart 6 quart pressure cooker  has a capcity of 6 litres and if you want to cook low capacity  the cooker comes in two difent size one with the capacity of 4 cups and other with a capacity of 8 cups i.e Cuisinart CRC 400 Rice Cooker and Cuisinart CRC 800 Rice Cooker. In the end the conclusion is that Cuisinart 6 quart pressure cooker is a perfect gadget for your kitchen if you have small time to cook for multiple peoples.
+        It comes with the 12 years warrenty but last long for more than 12 years if proper maintaince is done for better result Inspect every part of the lid and replace the removable parts to keep your Cuisinart 6 quart pressure cooker cooker in good condition.
+        FAQ
+        Q- Is the cooker fully non-stick or not ?
+        A:- yes it is  completely non-stick cooker made up of stainless steel.
+        Q- can we make two items at the same time?
+        A:- Yes  it consist of a plate whivh helps to cook two items at the same time.
+        Q- how much time it take to cook rice?
+        A:- it takes nearly 20 minutes to cook which is even faster then microwave.
+        Q- How much electric supply does it takes to cook?
+        A:-  As mentioned on the bottom of the cooker it takes 120v and 50-60Hz frequency.
+        Q- is there teflon coating inside the cooker?
+        A:- Yes, the cooker is coated with teflon from inside and has a glass cover from outside which is easy to wash.
+        Q-is the lid of the cooker is detachable or fixed?
+        A:-Yes,thelud is detachable when the pressure inside the cooker is released otherwise it is locked.
+        Q- how much time it take to release pressure naturally?
+        A:-the whole pressure inside the cooker will release in  10 to 25 minutes. When the pressure is fully released the lid will unlock and drop down.
+        Q- What is quick pressure release?
+        A:-when we want to release the pressure instantly that pressure release is quick pressure release. Quick pressure release immediately stops the cooking pressure.
+        Q-Do you use trivet with this cooker and of which type?
+        A:-yes a trivet come with the . Cuisinart 6 quart pressure cooker
+
+    </string>
+    <string name="day4Task1">
+        DIY Portable Folding Workbench\n\n
+        Workbenches are the kind of tables that are popularly used for manual work. Workbenches range broadly in their design. Transportable workbenches are the perfect solution to take care of having a space to work at. They are light sufficient, and so they can move from place to place. This is to deliver the needed workspace one needs. Everyone has run into the condition of working behind the home or somewhere that nothing is close by to offer provision. Or even hold an item when you require an extra hand.
+        The Best Type of Portable Folding Workbench
+        There are various types of folding workbenches. The most usual form is the folding bench that you can screw to the wall of your basement or garage. This workbench is fold-able straight whenever there is a need to free specific space in your workspace. With the new kind of folding bench, you can get more space when needed because it can be folded flat. Then you can move into a considerable cabinet or any partition that can hold it. This type is frequently smaller than the enclosed version. People suggest this type of bench for those who do not do substantial work.
+        Workbench Designs Constituents
+        Calculate your workspace first before beginning on your workbench schemes and plans. It is essential to measure your workspace to be capable of deciding how much wood you are going to need. Bring the dimensions with you when you are going to the hardware shop. Next step on finishing your workbench designs is to limit the kind of lumber that you must use.
+        Typically, most workbench designs have written down the types of screws and wood to buy. Therefore, if you are looking forward to constructing a withstanding bench that you might use on a daily basis, you must use beech wood. Beechwood is the familiar type of wood used for a permanent day-to-day chair. For those who need a lighter and portable bench, you may create a workbench out of birch wood. Birchwood might not be as heavy as beech, but it is long-lasting and can build a solid workbench.
+        You are also going to need:-
+        •	Round saw.
+        •	Drill or Screws.
+        •	A screwdriver.
+        •	Lumber. The amount would depend on what plan you tailed.
+        •	Corner rectangular.
+        •	Mallet.
+        •	Gauging tape.
+        •	Marker.
+        •	A belt sander.
+        •	Nuts, bolts, spikes and wood glue.
+        •	Clamps.
+        •	Eye safety.
+        It is not essential to have high-powered tackles such as electric drills. Though, having these tools can speed up the method of constructing your workbench.
+        Steps To Build the Workbench
+        If you by now have your resources and equipment, it\'s time to begin workbench designs.
+        First, you have to cut the wood. Cut the fragments of wood conferring to the right sizes. Drill the holes used for lag screws. Then, drill a quarter inch hole through a one and a quarter inch countersink. The top rails, as well as lower rails, need to be in the center of the wooden legs.
+        Next, the following step on finishing workbench projects is to put together the pieces. Begin with the posts and then the vast rails. Glue the interval screws. Set apart the posts and rails up until the glue is all dried up.
+        Combine the two sides using the smaller rails. Glue the lower and the higher middle stretchers together with surface screws. Glue the plywood on the exterior of your workbench with wood glue and screw with one and a quarter screws.
+        And that\'s it!
+        Refining the Workbench
+    There are some areas on the workbench that, with a few minor reworks, will materially recover its functioning and probably extend its life. None of these recommendations are dangerous, or even necessary for the seasonal user. None of these suggestions are complicating to implement, but I find that they would probably be worth the attempt as time passes.
+    The \"fold-flat\" characteristic
+    When this workbench assembles according to the directions or folded, the handles lay pointing down the legs regarding the floor. By reversing the way, the pins framed precisely reversed from the installation directions. The grips now are on top of the folded bench. Point away from the stands, and the legs do indeed entirely fold flat! A simple fix.
+
+    The hand-crank lock leads screw alteration
+    I observed that the board that\'s affixed to the hand-cranked lead screw makes the shallow work boards work as a built-in vise. This was loose and flopped around as the grips reeled. To fix this, I used a jerk to tighten the crankshaft accessory on the moveable workbench. So that there was less play as soon as the unit turn. Don\'t over stiffen, or the board won\'t transfer at all!
+    Making things run easily
+    Be sure to grease all moving exteriors with oil or a dry film Grease. Be sure to lubricate all sliding or spinning joints and connectors. Especially those added washers on the stands where they fix to the side plates.
+    Substitute the fiberboard work exteriors
+    While this is a bench intended for light to moderate loads, you might contemplate replacing the work surface’s fiberboards with spans of 1½ X4 inch lumber. Also, consider suitably drilled holes for the plastic trailing clamp inserts. That will provide you a broader working surface when the two panels reeled to the max.
+    Things You Should Consider When Buying
+    As soon as you decide to buy a DIY portable workbench, the first thing that you must consider is the type of task that you are going to do with it. You might want to do woodworking or other functions that will require you to put huge and heavy objects on your workbench. Then you have to get a portable bench that used the solid material.
+    A bench made of hardwood is the popular selection for people who are into a heavy-duty function. As soon as you shop for a portable wood bench, make sure that it is easy to carry and assemble. You may also take into account getting a portable workbench made of steel if you would be doing demanding work. Benches with steel tops would take all the throbbing that a conventional portable wood workbench can take.
+    If you are not going to use massive apparatus with your work, then you can choose to get a portable bench that uses other materials. For example, a portable seat with plywood or melamine top and steel or aluminum legs can be far informal to transport. These are more comfortable than those which are entirely made of wood or steel. When you are spending on a portable bench, make sure that the wheels are of decent quality. Ask the online shop or hardware shop about the element used in it. Typically, wheels made of polypropylene would be sturdy enough.
+    Making sure that the portable workbench has the correct bench top and legs and wheels is not sufficient. You also have to look for a portable bench with shelves or cabinets where you can effortlessly stack your work resources and tools.
+    Conclusion
+    A DIY portable folding workbench makes an outstanding gift for the holiday or special day for anyone who does any work with tackles. No matter if it is home restoration or auto repair. One would discover that a portable workbench helps get any chore done, in every place possible.
+
+    </string>
+    <string name="day4Task2">
+            It is one of the greatest mysteries of the world and miseries of my life why \’dogs\’ are used in a negative sense. A person does something bad and there it is- A dog used as a Bengali slang to represent inhumanity. And! The word \’bitch\’ means a female dog and what is it not used for? I believe a person who is extremely selfish and careless should be called a cat. You get the point, I love dogs. What have they ever done to not be liked?
+    Let me tell you a story first. A friend of my aunt went to India to stay for a few months. She was staying in a \’not so safe for ladies\’ zone and she used to go on morning walks every day. She used to feed a dog there and it used to join her on the walks. So one fine dawn, two strange men started following her. Eventually they started harassing her. She looked for her dog but it was nowhere to be found! She felt hopeless and a bit angry for having believed that dogs were loyal. But then she saw the dog. Not only the dog but the dogs. That brave little dog left only to bring his friends to protect his owner as he could not have done it alone. Now tell me, how often do you see a cat risking his life for his master? Rarely.
+    Now let me mention some traits that make dogs much better pets than cats:
+    1. They are loyal and will wait for you forever.
+
+    Rarely do we find tales of a dog leaving his owner but how often do we hear it about cats? Quite often I tell you.  All you have to do to make dogs remember you is feed them once!
+    Here\’s another tale- A man got sick so he went to treat himself overseas leaving his dog behind. Unfortunately, the man died overseas. Guess what the dog did? It waited for his master on the coast of the sea, he left from at a specific time every day for his return till it died itself.
+
+    2. They feel guilty!
+
+    It is quite natural to find dogs and cats ruining your tissues, papers and wires or pooping on the carpet. But, have you ever seen cats give a damn about it? They will look at your face and act so proud as if you deserved what they did. On the other hand! Dogs seeing your reaction knows they are at fault and gets so sad feeling guilty that it will definitely melt your heart. It is better to deal with a guilty criminal than an arrogant one!
+
+    3. They try to comfort you.
+                Every time you feel sad a dog will feel sympathy for you and cuddle you.
+    4. Dogs can be trained
+
+    There are countless instances where we see a dog being used by its owner to turn lights off or do other easy basic activities. They can do almost anything if they are trained.
+    5. Human friend since history
+
+    We have seen dogs being used in wars, hunts and what not? They have been man\’s companion since a very long time.
+
+    6. They get happy easily
+
+    Been away from home all day? Get home and you will find your dog being the happiest being on earth and jumping on you with its wagging tail. On the other hand, your cat will give an ignorant twitch of its tail and walk away.
+
+    7. Even the Smallest dog will protect you
+    While cats are usually seen to run as far away from anger as they possibly can, dogs will be ready to be the only thing standing between you and danger to protect you! Even if it kills them.
+
+    8. Your dog will never hurt you even if you hurt them
+    Try bathing a cat and coming out without any scratch. Nope, you will definitely need bandages. But, a dog will not scratch you even if you drown it.
+
+    9. They are funny!
+    They are more confused than cats and they react more. Put a puppy in front of a mirror, you will know.
+
+    10. They Get Jealous.
+    How cute is that? Do you even need a lover when you have a dog as your pet? They treasure you and unlike cats and everyone else they do not take you for granted!
+
+    Sorry cat lovers, cats are nice too but dogs are just better.
+
+    </string>
+    <string name="day4Task3">
+        Don\’t Be The Looser – 5 Tips to Avoid Low-Quality Mattresses
+        There\’s no blessing in the universe that has no disadvantages or the negative effect. That\’s why it is not so exceptional to have low-quality mattress on the market. But as a buyer, you should be conscious about the low-quality mattress in the market. To solve the problem you need a reliable source for reliable pieces of information.
+        However, we have discussed the 5 tips that help you to purchase the best one avoiding the low-quality mattress. Don\’t forget to check all these stated features. In the absence of these features you can\’t be able to find out the best mattress.
+
+        Check comfortable:
+        It may be a habitual fact for any person to find a great mattress for his bed. Always, a \”sleepable\” mattress is accepted by all. On the other hand, the comfortable mattress is exceptional. It\’s totally dependent on you that at which way are you want to feel the comfort. Because, there are various comfort factors. It can be the comfort of the muscles, comfort to movement, comfort with temperature and many more. It will be great charm to you when a mattress provides these at a time.
+
+        Know durability:
+        The mattress is a product of high value.  That means you always have to buy the mattress by costing more money. So it\’s simple to hope the long-lasting service of it. It ultimately depends on the making materials of it. Basically, the Hand-Craft mattress offers long duration than the others.
+
+        Perfect Size:
+        There are so many factors of buying a mattress. But size is the most effective one. It may vary depending on the various purposes. If you are taller than average, there are some brands who offers extra longer mattress or custom built that can be more suitable for you.
+
+        Light-weight:
+        Though the durability is desirable the weight is not less important. Because, at the time of changing the sheets, people feel boring of it overweight. That\’s why you should always keep in mind about the weight of the mattress. And try to but the lightweight mattress that will make it easier to change the sheet.
+
+        Is it user-friendly?
+        Of course, comfort is must, but sometimes we forget that higher than one person can interest a bed at one period. Comfort is indeed exceptional, but comfort for everyone regarding the bed is legendary. That\’s you should give any attention to the \”movement isolation\” of a mattress.
+
+        Conclusion:
+        If you can review all of these stated metrics at the time of buying a mattress then you will be able to skip the low-quality mattress. But these are not all but the mandatory metrics. That\’s why try these tactics to avoid the low-quality mattress and gain a new experience.
+    </string>
+    <string name="day5Task1">
+    ETHLend : An Exciting New Thing In Blockchain Technology
+
+    Last year, no asset class could compare the crypto-currency. In less than 12 months, their total capital has increased from 18 to 835 billion. Although these assumptions include new coins, one thing is obvious: the price has increased rapidly.
+    Up to now, there are more than 1500 digital coins and their perspectives towards block dynamic technology are becoming more complicated. ETHLend is one of them. It is the most useful crypto for borrowing another currency.
+    It records all transactions in addition to a financial intermediary (usually the bank). Below  I have given the most important information about ETHLend crypto :
+
+    	What Is ETHLend?
+    ETHLend is a decentralized lending platform on the Ethereum blockchain. It enables loans for Ether by using ERC-20 compatible tokens or Ethereum Name Service (ENS) domains as collateral. ETHLend solves problems associated with lending on several fronts -
+    •	Reduces the potential loss of loan capital on default.
+    •	Smart contracts ensure that the lender\’s assets are secured through the borrower\’s collateral.
+    •	Introduces a reputation and credit system apart from the traditional credit system.
+    •	Potentially allows for tokenization of any as blockchain networks
+
+    It\’s ETHLend\’s attention not just to Ethereum, but to ERC-20 compatible tokens that is so interesting. Investing in ETHLend is one of the smartest decisions you can make. It\’s not very often that revolutionary technologies like the decentralized Blockchain come along.
+
+    So, like any investor, you should \”strike while the iron\’s hot\” to invest in token shares while the cost is so low! Start-up companies like BankEx, Bit Rent, Specie, and now ETHLend are all capitalizing on the near virgin market of decentralized Blockchain transaction ability.
+
+
+    	ETHLend Platform :
+    There have been so many Ethereum-based ICO\’s in the last few months, what do you do with them all? If you want to hold them, some won\’t begin to see their true value until they build out their platform a quarter or two (or longer) after the ICO.
+    Sure, some investors just want to flip the coins they got at pre-ICO prices for some quick profit, but others want to hold longer-term. ETHLend provides an avenue for revenue from those tokens you hold.
+    It feeds the whole ecosystem. Investors don\’t have to make that choice between quick profit or potentially an even bigger score by holding a token long-term. They can hold their tokens longer term, but also get some value out of them now by using them as collateral with ETHLend\’s platform.
+    This also supports the developers. It helps them get their coins into stronger hands, those who are willing to wait for the platform to develop and grow, but are understandably under pressure to make something happen with their assets in the meantime.
+    Investors are already talking about the opportunity to take those ICO tokens, collateralize them with ETHLend and take out a loan in Ether, and then invest the Ether into new ICO\’s! Savvy investors know how to leverage their assets. ETHLend gives them another viable way to do that in crypto, levelling the playing field with traditional assets.
+
+    	Traditional Credit System :
+    ETHLend also provides an alternative to traditional credit. Customers can build reputation and credit within ETHLend that can ultimately be leveraged further without relying on that traditional credit system. This is part of the alternative banking and financial system that is being built within the entire crypto ecosystem.
+    As projects like ETHLend succeed and prosper, they will begin to work together. Imagine that ETHLend\’s reputation system could be linked to Civic, for example, as another respected and accepted source of credit in the ecosystem.
+
+
+    	ETHLend Competition :
+    ETHLend is not without some competition. Their ICO comes fast on the heels of SALT earlier this year, and Meridian and others are also coming out with lending applications. This shouldn\’t be a problem. It\’s a huge market, largely untapped, and growing exponentially.
+    Mass adoption of crypto assets has not yet taken place, and even institutional investing is just beginning. There is tremendous potential for growth and lots of room for healthy competition in the market. It\’s just a sign of a market beginning to mature. So many ICO\’s have been, and continue to be, based on ERC-20 tokens, that ETHLend\’s focus on them makes their platform really inviting for a lot of investors.
+    Even with looming competition in the lending space, ETHLend\’s focus on ERC-20 tokens in particular stands to make a significant impact in the market, almost immediately. ETHLend will begin to fulfil much of the tremendous potential of blockchain technology and will help to fill a gaping hole in the ecosystem and contribute mightily to its long-term health.
+
+    	ETHLend Team :
+    ETHLend team is already consist of a large group of 22 members and 6 advisors. ETHLend is recently lead by its founder and CEO, Stani Kulechov. ETHLend team\’s another member are Jordan Lazaro Gustave. He is head of Management in ETHLend team. And Martin Wichmann who head of Token Sale and raised almost 100% of ETHLend\’s ICO goal.
+
+    They are focusing in marketing and social media with few members. As a result, the team has all over technical and nontechnical members, they cover almost any business matters such that security, legal, and development concerns.
+
+
+    	ETHLend Progress Roadmap :
+    ETHLend Team has come out their success for next two years. In future, ETHLend plans added both Bitcoin and credit system loans to its decentralized application.
+
+    	ETHLend chart :
+
+                                                              coinmarketcap:
+    Final Thought :
+    ETHLend - The World\’s Very First True Loan Market. ETHLend is the world\’s first true loan market, built by the people, for the people. You won\’t find crazy fees, costs, or fine print like you do in federally insured banking institutions. Instead, ETHLend allows for nearly cost-free lending.
+     Join ETHLend now, and get deals that blow away what traditional banks offer by a landslide. Get more from lending whether you\’re the lender or the borrower with ETHLend. If you read this full article,  you\’ll know about ETHLend crypto in blockchain networks.
+</string>
+    <string name="day5Task2">
+       How to Make Grilled Cheese Sandwich in a Toaster\n\n
+        Do you grilled cheese ? .Who doesn\’t ?. This classic life hack will have you enjoying a grilled cheese in less than 3 minutes using only your toaster .Nothing is greater than a grilled cheese , except for a nice grilled cheese with tomato soup to dip it in . A toaster oven grilled cheese sandwich is the perfect easy office lunch , late night snack , or treat for whenever you have got a gooey melty cheese.
+        Is there anything better than a grilled cheese sandwich ?. The only problem ? .Grilled cheese takes some time to make . Sure , it\’s not the hardest dish in the world  . But it does require some preparetion and a little bit  of patience . Thankfully , a product exists that makes it way easier to get your grilled cheese on . It\’s a grilled cheese toaster that makes to sandwiches at once .
+        	Feelings :
+        The combination of buttery toasted bread and melty cheese is so yummy . Each bite feels like a warm hug . And some days , friend , you just NEED a good chessey hug ! .Grilled sandwich is a very tasty and quick to make snack recipe for breakfast .
+        But why use a toaster to make your sandwich you ask ?
+        Whenever i make a grilled cheese on the stove . I always burn my bread before the cheese can melt . It\’s my own fault . If you can\’t face this kind of problem , then you\’re going to LOVE making grilled cheese sandwiches in your toaster . The heat in your little oven stays consistent so your sandwich comes out perfectly \” grilled \” every time .
+        Let\’s go we know how to start :
+        	Preparetion :
+        I start by adjusting the toaster oven\’s cooking rack to the bottom position in the area closest to the heat . Next , place your baking pan on the rack and preheat the toaster on the \” Bake \” setting option .
+        	Ingredients :
+
+        	4-6  cheese slices
+        	2 slice of bread
+        	Butter
+        Let\’s start to make grilled cheese sandwich :
+        Adjust toaster oven cooking rack to the lowest postition .Place your baking sheet inside the toaster oven and preheat it to 450 deggree on the \”Bake \” setting .
+        	Add Cheese to one slice of Bread :
+        Spread the outside of each slice of bread with butter . Place one piece of bread buttered side-down on a cutting board and top with cheese slices . Top with remaining bread slice , buttered side –up .
+
+        	Put the Slices in the Toaster :
+        Using oven mitts , carefully remove the preheated pan from the toaster . Place the sandwich on the pan carefully. Then return to the toaster .
+        	Place Your Plate and Wait for it :
+        Cook sandwich untill the bottom is toasted and browned about 4 minutes . Carefully remove the pan again . Flip the sandwich with a spatula and retur to the toaster for another 3 to 4 minutes .
+        	Turn it from Toaster :
+        Cool slightly , then slice in half .When you found that this sandwich breads are properly cool . After that , you assemble the cheese . The toaster includes two baskets on the inside that will keep your sandwich in place while simultaneously catching any cheese runoff . Minutes later , your sandwich will be ready and will taste as if you grilled it up yourself . Plus , no pan to clean ! Bonus .
+        	Serving :
+        Grilled cheese sandwich also makes a very handy option to pack for kids lunch box . You can serve this grilled cheese sandwiches with potato chips , french fries , tomato ketchup or any sauce of your choice .
+
+
+        	Final Thoughts :
+        If you struggle with burning grilled cheese on your stovetop . You are going to love this foolproof method for making grilled cheese in a toaster .Grilled sandwich is a very tasty lipsmacking snack prepared with bread filled with a tasty mix of vegetable ,cheese and mozzarella .These grilled sandwich are very easy to make .
+
+    </string>
+    <string name="day5Task3">
+        Malwarebytes Anti-Malware apk Download for Free
+        Malwarebytes is now a most popular antivirus software. It is developed not only for mobile devices but also PC, mac and other devices. In mobile industry antivirus Malwarebytes apk achieves the popularity for its some good features. Also able to identify any malware including Trojans and spyware which is not found by other antivirus software. It can scan potentially unwanted programs.
+        This apk can alerts you by an incoming text message if a link to malicious website is detected. Besides it can scan for security vulnerabilities. Also it can detects application which are chasing your location. So before downloading you go through my rest of the articles which helps you for clear concept.
+
+        Why do you download Malwarebytes apk
+        Malwarebytes gives full protection for your smartphone if you buy their premium version. It has some extra layer of protection, prevents malware infections, can stop ransomware attacks. Prevents access to ad networks, and scammer networks, malicious websites, command and control servers.
+        Here are the Features for Malwarebytes apk download
+        Anti-malware protection
+        Malwarebytes Anti-Malware Mobile
+        Detects and eliminates malware, including spyware and Trojans.
+        Can Scans your smartphone apps for malicious code and Potentially Unwanted Programs.
+        Alerts by incoming text messages you if a link to a malicious website is detected.
+        Great features helps you to know the application which is tracking your location.
+        Scans your Android device for security vulnerabilities
+        Strong Privacy for Android phone
+        Stops the apps from getting access to the private content.
+        Secures your messages, mails and logs.
+        Faster and smarter smartphone
+        When Malwarebytes Anti-Malware is available to your device, never have to concern. It helps you from robbery your identity, privacy from spyware.
+        Private your data what you choose
+        Legitimate companies, Cybercriminals can gather private information from your device. Your location and contact person anything they can collect. Malwarebytes Anti-Malware Mobile detects what your applications are doing, and which reserved information is being accessed.
+
+        Closing security holes
+
+        This antivirus software automatically detects security vulnerabilities in the device settings. After that it recommends you how to close those holes.
+
+        Makes lighter smartphone
+         It capable to reduce unnecessary file which helps for fast work for smartphone.
+        Anti-Malware/Anti-Spyware
+        Scans applications and files for malware and spyware. It can scans native memory and SD card. Besides Schedules scanning helps you for protecting your devices. Scans spontaneously when files are retrieved (real-time). It will be updated over a Wi-Fi network if needed.
+
+        Security Audit
+        Security vulnerabilities identify on your device and suggests for remedy.
+        Application Manager
+        Enables custom whitelisting of approved apps.
+        Identify apps which are currently running.
+        Identifies installed applications.
+
+        Another information for Malwarebytes
+        Languages: Multiple languages
+        License: Shareware
+        Last update: 31 July, 2017.
+        4.3 + Ratings and download more than 10Million.
+
+
+        What\’s News in Malwarebytes?
+        Version 2.1.1
+        Your desire languages
+        Notification for issues
+        Malwarebytes Labs
+        Android 6 support
+        Pull to refresh in views
+        Bug Fixes
+        Changes will be displayed on dashboard
+
+        So I hope it will helps you why you download this Malwarebytes apk for your mobile phone. There are some antivirus software Avira, 360 antivirus, Avast, Avg, Kaspersky Internet Security. But I recommend that Malwarebytes apk will be better for your smartphone devices. Also you can use it for your pc, mac.
+
+    </string>
+    <string name="day6Task1">
+        \5Best shampoo and conditioner for hair growth
+This hair is the main problem you think this way can happen to anyone. According to Michele J Farber, MDSchweiger Dermatology Group. Best shampoo your hair for many important processes as hair thicker dirt, dandruff, many cleanings.
+Amazon is world best biggest bargain company they\’re from best product purchase if you want with this company from get hundred% money guarantee a proper delivery.
+1.	Nioxin Cleanser:
+This Nioxin cleanser, shampoo is best shampoo using for hair talking Dr. Schwieger
+Every 10mane this shampoo using from par 9mane hair growth many suitable and if hair in any dirt or others, then this shampoo cleaning your scalp dandruff so if are selling you can hair.
+Feature.
+-This Product Dimensions: 3.4 x 2.9 x 10.6 inches; 2.8 pounds  this a best products.
+-Nioxin cleanser Shipping Weight: 2.4 pounds (View shipping rates and policies).
+– There domestic Shipping: Amazon only ships this item within the contiguous 48 United States.
+-Nioxin Cleanser System 1, $20.99,
+Shop noy
+2. Laritelle Organic Shampoo:
+This organic shampoo very good for hair its prevents hair loss and promote hair and do your soft hair made with 100% pure high quality organic shampoo it is formulated WITH 75% certified organic shampoo Ingredients &amp; 25% Wildcrafted this shampoo I\’m using so recommend hair for best product in the hair.
+Feature.
+-Product Dimensions: 3 x 3 x 5 inches
+-Shipping Weight: 1.1 pounds
+-Product Code: SH2
+-Reward Points: 16
+-Availability: In Stock
+-Product Price $49.99
+Shop noy
+3. Art Naturals Organic Argan Oil Hair Loss Shampoo for Hair Regrowth:
+It is a best natural Argan oil or shampoo this is using men and women its ability many as your hair difficult and hefty it has over Amazon for 1000 over reviews its good products this for reviews many so you can this products using. Art natural organic Argan oil or shampoo best process damage hair for.
+Feature.
+-This is good products.
+-Product Dimensions: 3 x 3 x 5 inches.
+-Shipping Weight: 1.1 pounds.
+-100% Money back Guarantee
+-Price $44.99.
+Shop now
+
+4.Shea Moisture Detox &amp; Refresh Hair Scalp Gentle Shampoo:
+That is a powerful shampoo this shampoo kindly clean scalp hair without any medicine, it\’s been is a best process for your hard dirt, dandruff or others. You get many powerful shampoo compromise fluid as hair for a good way.
+Feature.
+-This Detoxify and optimize scalp conditions for healthy, manageable hair with this gentle, Sulfate-free shampoo
+-Very Leave hair soft and silky.
+-Ideal for daily use and good products.
+-Product Dimensions: 0.8 x 3 x 0.7 inches; 11.4 ounces
+-Shipping Weight: 14.4 ounces
+-Price $8.99
+Shop now
+5. Strong HairPro Hair Loss Treatment Kit:
+Each step of the system aids in hair growth man and women. Increases hair suitable repair damage hair growth it is a best products are you want hair any time about good, then follow this products as hair many working products. Increase the volume the thickness of the hair and dandruff, fore hair any time.
+Feature.
+-Item Weight: 1 pounds.
+-Shipping Weight: 1.4 pounds.
+-100% money back guarantee when you purchase today.
+-Price $19.99
+  Shop now
+Verdict:
+Dear reader so along as a conversation I hope near would love to. Do not forget to tell me how it felt if you like it\’s do more, Share, and if you have any questions we will try to answer. Thanks you.
+
+
+    </string>
+    <string name="day6Task2">
+        Northwoods Springdale Women\’s Hybrid Bicycle: Perfect Match for Women
+        Riding a bicycle was fashionable a long time ago. Until now, as the day progresses, innovation and technology have added a lot of dimensions to cycles. The bicycle has taken a mandatory part in our day to day life for transportation. Therefore, the daily use of it bounded the bicycle makers to provide hybrid and betterment quality to the people. Northwoods Springdale hybrid bicycle is one of the best and quality bike that is preferable for women. If someone looks into its features, specifications, advantages &amp; weaknesses; surprisingly, they will get a clear idea how much better Northwoods Springdale hybrid cycle offers to women.
+        Northwoods Springdale hybrid bike is uniquely designed for women. Also, who love to take relaxation rides and commuting in different areas hence this is preferable. The bike is made with strength and comfort. Within an affordable price, some can easily choose this Northwoods Springdale hybrid bicycle. If someone notice into the hard competition in the market for hybrid bikes; However, Northwoods Springdale women\’s hybrid bike is much affordable to a comparative one. Meanwhile, now elaborately look into the Northwoods Springdale hybrid bike specifications for enough information about the bike.
+
+    </string>
+    <string name="day6Task3">
+  Open Introduces Digital Payment Platform
+    Digital payment platforms are rapidly growing in popularity across the world. But does this medium cash is deceased? That depends on how rapidly monetary organization s and payment providers can raise adoption rates.
+    Digital payment platforms give relief from cashless transactions. People do not carry much cash money in their wallet. These platforms are efficient of making payments in offline mood as well as online.
+    There are several platforms for digital transactions. These platforms feature are different. While making payments, you should make the best use of them. There are some digital payment platforms and their features:
+    •	Sound Based payments platform:
+    Some association has introduced an app with sound transmission cash transfer facility. It is a technology that is only a software-driven app. When it uses, it does not need any hardware requirements on the ATMs. It is the highly secured application. It helps you to make the contactless transaction with this sound-based technology.
+    You can download these applications in your mobile. After downloading these applications in your smartphone, you have to register through your cards. This app makes payments from your smartphone at any POS machine. Even you do not have cards along with you.
+    •	Mobile Money Identifier:
+    If somebody wants to send money and receive that money should have MMID for the money transfer. MMID is a 7 digits unique code which issued by the bank on which you have registered mobile number.
+    By MMID you cannot transfer huge amount with a single day. You can transfer only a small amount in a day.
+    •	Open Platform:
+    It is a software system providing payment infrastructure. It is blockchain based on developer platform. It is simple for developers to use simply \”plug and play\”. The process of payments on blockchains that app would require.
+
+    •	It accepts cryptocurrencies in the same way as the app would update their backend in a centralized decree transaction.
+    •	The application\’s payment scheme is monthly subscription when accepting cryptocurrency.
+    •	The people who purchased on a blockchain, it verifies, track, and authorize users.
+    •	It confirms that a purchaser of a digital service from an app.
+    •	By a developer API, the application updated layer, and database.
+
+    •	Code (QR) based payments system:
+    A code is a different system of making the transfer of payment. It only needs to scan the QR code for the transfer of payments. For it easily payments transfer, it is used by all the banking apps, digital payments apps. You can scan the code automatically through the smartphone.
+
+    •	Online Bank payments Platforms:
+     It means to take service of a bank by online. This facility can be available through the mobile banking system. If you have an online bank account, you need not go to the bank for your transaction. You can transfer the fund to your phone from anywhere.
+
+    Final Thoughts:
+    Digital payment platform made easy transactions of money. The open platform which provides digital payment transaction. It is easy to use, process payments on the blockchain, which required an application. It is the first and only payment platforms that qualify developers to accept any cryptocurrency.
+
+    </string>
+    <string name="day7Task1">
+        Pure wave cm7 massager reviews form a real user \n\n
+
+Relief!!!!! My father has back pain that no one can fix or diagnose, and the one and only thing that time, that helps us just deep tissue massage, however, that only hold out for a few days.
+In this case, this pure wave cm7 massager, however, really works like the deep tissue massage, even doesn\’t cost us $55 per use! In fact, I too have some joint problems, but with my toe.
+ I have sower fasciitis in that no physician can provide me relief.
+Also, I\’ve literally exhausted hundred on the different type of shoes, co-pays, orthotics, stretching devices injections etc. Frankly, these remedies help instant, but never diminish the pain. But trust me, only 10 minutes with this cm7 massager, and my pain in on the toe is gone!
+After that, It returns back whenever I get out of my bed sleep the next day morning, but oh how amazing that pain is relief, when I again to play this on my toe!! Just Love love  love.
+Now, in this pure wave cm7 massager reviews I will discuss all of its special characteristics. Continue reading!
+
+Product description
+Now, Experience why most of the Physical Therapists and Chiropractors are love to suggest pure wave cm7 for their patients; also recommend this massager for self-using at home.
+
+ Patented dual motor
+Its dual motor patented outlook provides both soothing micro-vibration and strong percussive therapy.
+	Besides, tons of clinician  testimonials statistics show that pure wave cm7 assists breaks down defect tissue, raise blood circulation, speed recovery  recline muscles.
+Pure wave is lightweight
+Pure wave cm7 is just lightweight. This massager is also cordless.
+	Another noteworthy matter is that pure wave cm7 contains slight curve design, which makes it so much convenient to use.
+	so, this massager is perfect for your back, head  legs pain.
+	At the same time, its each individual parts are geared unto several parts of your physical body parts and the pain type.
+Enjoy stress relief
+The excellent matter is that pure wave cm7 provides deep tissue massage. At the same time, this powerful and smart massager provides myofascial and acupressure release in time.
+	More practically, pure wave cm7 is the perfect product for everyone as it can recover your pain faster and finally provides you the pain relief.
+	So, stay active with this fantastic massager all day long.
+	 In this case, I sternly recommend you to make this message as part of your regular routine.
+Satisfaction guarantee
+This product is just worth money. It includes 90 days Free Returns if you find it\’s not useful to you. But trust me, this product is just superb.
+	If you buy this once never let it for a single day.
+	So, I can assure your satisfaction guarantee.
+	 Finally, live happier and healthier with this lovely health fitness massager.
+Professional Grade
+It has a professional grade. And you may be known that PADO has a brand value.
+	This brand all time produce latest smart health-related gadget for its customers. And the pure wave cm7   is just one of them.
+	You can blindly choose this product for you and your lovely family members.
+	Most interestingly pure wave cm7 allows massage to different areas of the body. It just varying levels of your firmness.
+	So, you can use it on your different body parts.
+As I mentioned before, pure wave cm7 is so much lightweight. Besides, this massager works like cordlessly this massager. For this reason, you may use this awesome massager wherever you need to use it.
+Durable battery life
+The notable matter is that pure wave cm7 massager has a healthy battery life.
+	You can use his massager continuously about at least 2/3 hours.
+	And its Battery life lasts highest 3.5 hours.
+	Finally, this pure wave massager provides you the thorough massage.
+	So, blindly choose this for you.
+
+Safe for Home Use
+This product is secure to use.
+	Doctor suggest this massager for home purpose use due to its easy using functionalities and simple user interface.
+	 So, you may buy this one for your home purpose use.
+Six different rubber level
+Pure wave cm7 contains six different rubber. And, each of this six rubber heads has various firmness level, which will help you to provide relaxation to your different body parts. A
+	Use those levels especially, which are set perfectly and suits for you.
+Air-cushion head
+Meantime, it includes the air-cushion head.
+	This air cushion head will provide you with the feeling which is more similar to the tennis ball.
+	So, it will say threat, the air cushion head is perfect for firmly and yet softly type massage portions of your body parts.
+Point Stick head
+Another unique matter is that the smart pure wave cm7 massager has Point Stick head.
+	This Point Stick head is so much effective for your body upper portion.
+	This feature allows you to load more pressure on your specific body parts areas.
+	This is also called acupressure massage. So, please choose this incredible massager for your home purpose use.
+	Never waste your money in the massager parlor anymore.
+Vibrating surfaces
+In addition, the pure wave cm 7 fitness massager has 6 head sick. And all of the head stick provides the vibrating surface on your soft body parts.
+	This is only of your relaxation.
+	It provides one kind of deep tissue message for you.
+	Not only that, this message is so much beneficial for your injured muscle pain.
+	Meantime, this vibrating future can reduce your leg pain instantly.
+The most useful item for diabetes people. You can blindly suggest this product for the diabetic\’s people.
+
+
+
+Why you buy pure wave cm 7 fitness massager?
+In this pure wave cm7 massager reviews, I love to pick up all of its latest and unique features to all of you. I really have benefited from his, now I want to suggest it for you if you have long pain and did not eliminate it with other staffs.
+As I mentioned lots of its unique features already, now I tell you why you need to buy or choose this awesome fitness gadget for you. Well, this smart health tech gadget is not only the massage therapy but also it will keep you fit by increasing the circulation.
+Now the key points behind choosing and buy this massager-
+	Pure wave cm 7 is responsible to provide relax spasms muscle and break your up knots.
+	 Dr. Robert Gonzalez said that pure wave cam 7 is helpful for major pain types such as sciatica neck pain and, trigger points and.
+	It has fanatic Pain Management capabilities. Use this once a day if you have some time.
+	Surprisingly, this massager Increase your blood Circulation dramatically!
+	Another super matter is that it can Speed Up any kind of damaged Recovery
+	Besides, it is Ergonomic Easy to reach for anybody parts
+	Plus, this provides tough Tissue Massage instantly
+	This fantastic health gadget can treat any kind of major pain from your, toe, face, scalp, back, neck, feet, legs etc.
+	At the same time the amazing Experience of the unique ripple effect of the percussion of the pure wave.
+	Finally, get and enjoy the soothing and decent micro-vibration therapy of massage.
+
+CM7 latest features
+The CM7 and its others versions are quite similar. But this version is latest and contains some unique features. There is a key difference from the other old versions. Now we will notice a few of them. After that, you can judge why you need to choose the updated latest version of cm7 for you instead of the older version. Here, one thing I want to mention you that, if you had the older versions, you also need to buy this new version for you as it is just worth of money.
+The key features are-
+	Cm7 contains the intensity of the adjustable levels.
+	This massager is ideal for any kind of pain. And perfectly massage your muscles, joints, and tendons.
+	Meantime, this updated version can let up the percussion of head RPMs approximately 3,700, which is bigger than other versions
+	This latest version featuring the intensity dial, now you can easily turn up or turn down the intensity level.
+	This massager can addresses your tendon or joint distress easily.
+	The wonderful matter is that it needs less time to charge. And it\’s charging time is only one hour.
+	You may use this health gadget one week with one charge. If you use it 20-30 minutes per day.
+	Also, use this masher for a long time with one charge, about three hours approximately.
+
+
+Conclusion:
+I have been using this pure wave cm 7 about six months. I like and love to use it. As I said before, it has really benefited with pain and muscle recovery after any kinds of workouts.
+In this pure wave cm7 massager reviews I just share my experiences with you. And I highly recommend you to buy this item for you as most of the doctors are now prescribed it. Another reason I use it because it already got lots of positive reviews from its valuable users. So, before any others brand buys please have a look at this. Best of luck!
+
+    </string>
+    <string name="day7Task2">
+        40 Offensive Best Android Strategy Games Ever! Gamers Must Play Android Games
+Welcome to game mania. If you are a game freak, then this content is perfect for you. Never forget to check the whole article before leaving this page, because here you can find almost 40 addictive and top-rated best android strategy game lists with a short brief and their latest features. If you see this article is beneficial, then please spread it among your gamer friends as they should not miss these real-life strategic games in their life. So, why you are waiting for?
+All about Best Android Strategy Games
+Let\’s begin to check it out the best android strategic games. Please Comment below which game is most exciting from your perspective.
+1.    Plants vs. Zombies: Garden Warfare 2
+Plants vs. Zombies: Garden Warfare 2 is the action based strategy game. Discover hundreds of planets and zombies. Definitely, now it is the top-rated zombie game for youngsters. Battle across 11 crazy worlds from Ancient Egypt to the Far Future, which make this game so much realistic. Accept new challenges and get ready for the best defense.
+Main Features:
+- Especially, Backyard Battleground is added which serves as a hub world that is free for players to explore.
+- Players can access portals that are connected to missions.
+- Plants vs. Zombies: Garden Warfare 2 provides the excellent user interface with 3D model.
+- Moreover, addictive and realistic gameplay.
+- This best android strategy game includes several exciting new modes.
+- Particularly, Modes are Garden Ops, Graveyard Ops.
+-  Finally an alternative of Gardens and Graveyards, Herbal Assault.
+2. Glory of Generals
+Best android strategy game ever! In this addictive game, a player can instruct any officer and the s troop on the battlefield to battle freely. The glory of Generals can make a player more solid to marshal from its remarkable training guidelines. Furthermore, someone can play this through Wi-Fi and Bluetooth and also accept the challenge from global players through Game Center.
+Main Features:
+- In Glory of Generals, the user can customize his/her battle freely!
+- Apart from this, Over 60 new campaigns with four battlefields added.
+- Moreover, 102 world famous generals will participate in this war at a time.
+- Without a doubt, all time support from Over 300 real and rich terrains.
+- Support online multiplayer mode
+- Enjoy this best android strategy game with the adoption of auto-matching tech strategy.
+3.    Asphalt 8 airborne
+Asphalt 8: Airborne is a 2013 racing video game but this best android strategy game still keep its position in the top chart of android strategy games 2018! , importantly as the part of the Asphalt series this real-time strategy game published by Gameloft.
+Main Features:
+- Grab your real luxury dream cars and motorcycles.
+- Realistic audio immersion which provides recorded high-fidelity motor sounds.
+- Moreover, a user can perform as a barrel rolls and wild 360º jumps as past their opponents.
+- Undoubtedly, Exotic new location interface added in Asphalt 8 airborne.
+- Besides, enter whimsical world, such as Venice, the Nevada Desert, French Guiana and Iceland.
+- Asphalt 8 airborne (android strategy games 2018), including nine challenging seasons.
+- Moreover, 400 events in Career modes!
+4.   Drag Racing
+Drag racing is a fantastic racing game in the list of best android strategy games. Offers two race at a time to cross a preset finish line with motorcycle and automobile. Racing lovers are playing this game just like new professional races.
+Main Features:
+- Drag Racing includes speed sensing systems and electronic timing facilities.
+- Definitely, Event reward facilities.
+-  Not only Powerful NOS but also High-Speed motorcycle, and automobile.
+- Events range from 16 to 100 car brackets.
+- Challenge other players online through Wi-Fi.
+- Moreover, Real-time 10-player races in Pro League.
+- In addition, Upgrade and customize about 50+ cars from the world\’s hottest car list.
+- Stunning sound quality with the impressive user interface.
+- Manufacture your car and win the race for are unlocking the challenging levels.
+5.  Hill Climb Racing 2
+Hill Climb Racing 2 from the Creators of the Original Hill Climb Racing android best strategy game. It provides the gamer more speed, more craziness, more challenging and more fun with live Competitive Events!
+Main Features:
+- Obviously, Hill Climb Racing 2 includes about 50+ stunning cars.
+- Manufacture your car\’s engine, suspension, tires &amp; 4WD.
+- Importantly, This real-time strategy game added14+ Unique and upgradeable Tuning Parts.
+- This game is low in size, but its graphics resolution can bite any android strategy games 2018!
+- Challenge your friends in daily and weekly competitions.
+- Vehicles – Motocross, Jeep, Formula and nine more.
+- Unlock vehicles and choose the best one for your play style.
+- Indeed, Best free time killer racing game!
+6.  ICEY not free
+ICEY not free is a 2D addicted android strategy game. Most of the Achievements in this real-time strategy game is easy to play by following the direction of Narrators command and also argue with his leadership. The primary goal is to find the truth.
+Main Features:
+- ICEY not free provides a guideline for the user how to play.
+- Includes the map for finding out the obstacles easily!
+- Without a doubt, a fantastic combination of a tremendous intriguing story.
+- It\’s a great game, unique and engaging in furious actions.
+- Absolutely, Brilliant art design, lovely script, and excellent production.
+- Realistic sound quality and Fantastic gameplay.
+- Furthermore, Lost wood maps, Sewer 1 map, town map, Subway corridors map.
+- Also, Sewer 2 map, Puppet theater map included in the best android strategy game.
+- Finally, Challenge your friends through the internet and unlock the next levels.
+7. Trial Xtreme 4
+Trial Xtreme 4 is one of the best android strategy game which offers you to earn cash in races, tournaments and in head to head duels. Finally, it\’s the time to prove yourself as the best Xtreme rider among your friends and be a member of world ranking charts!
+Main Features:
+- Trial Xtreme 4 provides tournaments arena.
+- The craziest 3D graphics perfectly designed to form an insane riding experience.
+- It should be noted, Trial Xtreme 4 is not an ordinary skill-based racing game
+- Definitely, Upgrade your bike performance, abilities, and appearance.
+- Finally, offers you to bring up your rider with tons of awesome gears with abilities.
+8. Red Bull Air Race 2
+Red Bull Air Race 2 is the favorite best android strategy game in 2018 with its hot downloads about 5 million! This is the perfect combination pack of high speed, low altitude, and extreme graphics. Indeed, The most exciting flying competition in the mobile game ever!
+Main Features:
+- Experience a new dimension of motorsport and increase your skills online.
+- Particularly, Brand new Challenges mode against the real Air Race pilots.
+- Red Bull Air Race 2 offers to experience the thrill of piloting with touch or tilt controls.
+- Without a doubt, Choose from a variety of modes and test your piloting skills.
+- Apart from this, incredible graphics bring the real-worlds exotic locations.
+- Approximately 500+ races experience and over 11 areas.
+- A thrill of high-speed racing like never before!
+9. Subway surfers 2018
+Subway Surfing is the best android strategy game for surf lovers for its 3D dimensions. This is a unique crazy run game in 2018which filled with fun and entertainment. It provides adventurous gameplay. If you collect all the coins, then you unlock new levels. If you are a good runner, just playing this addictive game.
+Main Features:
+- Subway Surfing most thrilling and dangerous adventure game of the year 2018.
+- Unlimited surprises which make it more addictive.
+- Besides, Collect all the coins and unlock the levels.
+- Free and paid Version.
+- The best android strategy game includes stunning sound quality
+- Besides, High-resolution graphics which will make you nostalgic.
+- Supported languages: German, French, Dutch, Russian, Arabic, Korean, Chinese, Japanese Spanish, Portuguese, Italian, and Vietnam.
+10. Kingdom Rush
+Kingdom Rush is the action fantasy android war game. Explore an epic journey to defend your kingdom against trolls, evil wizards, and hordes. Generate experience by playing this best android strategy war game in forests, mountains, and wastelands. Time to save the Kingdom from the forces of darkness by command your troops, recruit elven warriors and face legendary monsters on a quest.
+Main Features:
+- Epic defense battles with nine heroes.
+- Command your soldiers and see them engage in hand to hand cartoon battles!
+- Importantly, customize your strategy by upgrade eight specialized towers.
+- Obviously, Mighty Barbarians, Arcane Wizards, and Forest Rangers.
+- Kingdom Rush build with over 18 tower abilities.
+- Over 50 different enemies, who are always trying to destroy your kingdom.
+- Clearly, This best android war game with fantastic graphics.
+11. Swamp Attack
+Swamp Attack is a complete action-packed, super cool android war game. This best tower defense game is offering the most challenging multiplayer modes. Now get it on Android and Play this for free. Just a few steps; beat the monsters, survive the attack and secure your home.
+Main Features:
+- In addition, Swamp Attack provides you different powerful weapons.
+- Without a doubt, must upgrade and equip your skill with bombs and guns.
+- Particularly, Dangerous 8 action-packed episodes.
+- Besides, Includes 390+ fun single player levels and 400+ cool multiplayer levels for free.
+- Get quick missions for instant excitement.
+- Approximately 30 different defense tools.
+- Also, Get reckless minigun, mighty shotgun, and the super atom bomb.
+- For more stimulation, includes 45 wild monsters.
+- Perfect combo for crazed zombie-style monsters, crocodiles and aliens lovers.
+12. Shadowverse
+Shadowverse is the top rated game in Japan among best android strategy games! It is one of the best card game which creates millions of Shadowverse battles every day. There has a multitude of ways to play. Multiplayer game of the year!
+Main Features:
+- Shadowcase contains beautiful art, animations, and fully voiced cards.
+- Along with, every three months new card expansions are released.
+- Also, Campaigning tournaments broadcast every week and support for streamers.
+- Finally, 14 million player\’s community!
+- Fundamental learning opportunity by playing great single player story mode.
+- One excellent feature is, it has less RNG in Shadowverse than other card games.
+- Not only daily missions and Bonuses but also new card packs every day.
+- Furthermore, Different leader classes that allow you to create own deck strategies.
+13. Age of Civilizations
+Age of Civilizations is a war based androids strategy game. Its primary goal is to dominate the world from your country. User around the world makes it the top-rated exciting war game 2018. Simple interface and rules make this game more addicting.
+Main Features:
+- Age of Civilizations offers online and offline achievements.
+- Ordinary maps for the root of wars and bonus system included.
+- Clearly, Diplomacy View gives a province a defense bonus.
+- Allows units to move into the sea for any land province.
+- Besides, Realistic gameplay.
+- Also, Multiplayer opportunities from around the globe.
+- Contains World War 1 and two plot which makes it so much practical.
+- Without a doubt, destroy the alien with powerful weapons.
+- Besides, Impressive sound quality with background music.
+14. Breach and Clear
+Breach and Clear bring tactical strategy war game. Easy to create a Special Operations team, plan and monitoring difficult missions. This real strategy war game gives you natural flavor plot view with the mighty army. This game is based on the US army. So why are you waiting for?
+Main Features:
+- Indeed, Breach and Clear make it a masterful game.
+- Definitely, get real-world squad from US Army Rangers, Canada\’s JTF2, UK SAS, Germany\’s KSK, and more totally free.
+- Particularly, Superior tactics and training included for a new gamer.
+- Specialize each soldier with a combination of armor, perks, tactics, and inventory.
+- Furthermore, Realistic UAV Drones are also involved for destroy battle.
+- This real war strategy game, soldiers equip real-world gear and use real-world weapons.
+15. Kingdom Rush Frontiers
+Kingdom Rush Frontiers is the world\’s most addictive defense game. The best strategy war game with lots of strategic decisions. Not only that, gamer told that this game is fantastic as the rest of the games of the series.
+Main Features:
+-    It is a very well-crafted game, and it has many references.
+-    Kingdom Rush Frontiers contains three new Halloween stages.
+-    Moreover, 2 New Heroes and five achievements.
+-     Also, Individual units and cool features on every level.
+-    Besides, Include difficulty mood for dare more exciting challenge.
+-    Especially, 40 enemies with unique abilities.
+-    Finally, Added nine new enemies, who are more potent than other series
+-    Monsters are ferocious Werewolves, powerful Vampires, Face vicious Ghouls and Ghosts of lost souls!
+16. XCOM: Enemy Within
+XCOM: Enemy Within is the most addictive strategy game all time from Russia. Multiple unique, adventurous levels make this game so much special. The gamer can enjoy this games sound quality, graphics, animation, gameplay at the same time with their famous soldiers.
+Main Features:
+- XCOM: Enemy Within includes a new technology which mainly used for genetic modifications of soldiers.
+- Absolutely, All new weapons and types of equipment are added in this strategy game.
+- Exciting stories are added, which makes the games so much addicted.
+- New soldiers with unique abilities, powerful enemies.
+- Furthermore, street maps, missions plan, and multiplayer mode.
+- Importantly, XCOM: Enemy Within is the graphically rich.
+-  Finally, This best strategy android game has the realistic gameplay.
+17. Star Wars™: Force Arena
+Star Wars™: Force Arena is an absolute masterpiece in 2018. This game is a once in a lifetime experience. Real-time multiplayer battles in the galaxy. Seamlessly blends a robust character collection. Lead your squad and became master the arena!
+Main Features:
+-    Star Wars™: Force Arena includes advanced upgrade system.
+-    Additionally, Intuitive touch controls to deliver the ultimate mobile gaming experience.
+-    Particularly, Join forces with other players and friends.
+-    Finally, LEAD a team with iconic Star characters such as Kylo Ren and REY!
+-    Collect character cards and upgrade your favorites Star for free.
+-    This game is supreme to all other 1v1 fighters
+-    Fun gameplay, smooth controls, thrilling story and excellent character development.
+-    Furthermore, This game is a once in a lifetime experience.
+18. Age of Strategy
+Age of Strategy is a real-time strategy android game in the series of the age of empires and knights. This exciting war game combines with high-resolution graphics and excellent gameplay. Combination of campaign, random games and multiplayer option.
+Main Features:
+-    The game is a Retro like \”8-bit\” game.
+-    Clearly, This is pure gameplay oriented turn-based strategy.
+-     Destroy your enemies with latest weapons including detonators.
+-    Particularly, Over 300 maps and more than 100 unique unit types.
+-    More than 25 technologies to invent
+-     Moreover, All the level are different, and the battle is customizable.
+-    Collecting stars, collecting gems for unlocking new levels.
+-    A free turn-based android game.
+-    Connect with your friends and accept their challenge.
+-    The addictive game sounds with star characters.
+19. NBA Jam
+NBA Jam is ready with your favorite stars from the top 30 NBA teams. This real strategy android game offers 2-on-2 arcade basketball which is the almost new concept in the gaming world. This Extreme graphics game recommend you to connect Wi-Fi instead of data usage while downloading or upgrading this game.
+Main Features:
+-    Unlock legends, outrageous cheats and hidden players by win classical campaign.
+-    Multiplayer option opportunities included.
+-    Besides, NBA Jam added four modes to play.
+-    The hottest arcade sports game on Google Play and among all sports strategy games.
+-    Also, Play on your Android TV.
+-    Moreover, Very addictive, controls are great, and the graphics are realistic.
+-    Local and online multiplayer option.
+-    Finally, NBA Jam offers team option and roster updates.
+20. Minecraft
+Minecraft helps you to explore infinite worlds and build a grandest of the castle. This addictive best strategy android game includes fantastic sound quality with the cool user interface. The world\’s best android arcade game ever with lots of adventure and action.
+Main Features:
+-    Include survival mode for a new user.
+-    Crafting weapons and armor to fend off dangerous mobs.
+-    Explore and survive alone or with friends.
+-     Also, Play with up to 4 friends with a free Xbox Live account online.
+-    Additionally, Get unique texture packs, skins, and maps from your favorite creators.
+-    Besides, Customize your experience for free.
+-    Modify data-driven behaviors in the game to create new resource packs.
+-    Particularly, Own private server.
+-    Play Minecraft with up to 10 friend\’s cross-platform, anytime, anywhere.
+21. Kingdom rush origins
+Kingdom rush origins return in an all-new prequel adventure. The most addicting tower defense game 2018. It is the third installment of the award-winning Kingdom Rush saga from Praise for the Kingdom Rush series.
+Main Features:
+-    Obviously, Visit mysterious ancient metropolis and forests.
+-    Moreover, Magical faery realms and even floating ruins!
+-    Additionally, Brand new towers and troops! Stone Druids.
+-    Besides, The elven Infantry, elf archers, and mystic mages.
+-    Also, Specialized tower upgrades with over 18 abilities.
+-    Moreover, Face hordes hunter, giant spiders, and the terrible Twilight army.
+-    Study your enemies, and your towers then get a bright idea from in-game encyclopedia
+-   Finally, 30 new enemy types and engage in epic boss battles.
+-    Kingdom rush origins provide nine legendary heroes and their awesome powers and spells.
+-    Over 70 achievements, with three difficulty modes.
+-    Especially, Classic, Iron, and Heroic game modes.
+22. Anomaly 2
+Anomaly 2 mainly tower offense vs. tower defense android war strategy game. It is the sequel to the critically acclaimed Anomaly Warzone Earth.  For single-player campaign Anomaly 2, adds new features to put your skills to the test and finally a unique experience.
+Main Features:
+-    Anomaly 2 contains the dynamic tower defense vs. tower offense multiplayer mode.
+-    Besides, Customize your battle during war forget the new face of strategy.
+-    Moreover, Each unit has a different unique ability.
+-    Engage in a multiplayer experience with multiplayer mode.
+-    Furthermore, new single-player campaign offers a more intense strategy.
+-    Over a million tactical combinations to build your squad.
+-    Dive into a beautifully rendered world.
+-    Especially, Team\’s upgraded and improved visual engine.
+-    Finally, Fight across a post-apocalyptic world.
+23. Hearthstone Heroes of Warcraft
+ Hearthstone Heroes of Warcraft is the fast-paced card game with player vs. player combat.  Experience the magic, mischief, and mayhem with your friends with this excellent combat strategy game.  Defeat your enemies, master your deck, fight for glory and assemble powerful combos with cunning strategies.
+Main Features:
+-     Without a doubt, Collect powerful cards and create mighty decks.
+-    Also, Rich single-player missions.
+-    Experience dazzling real-time, player vs. player combat.
+-    Obviously, Defeat all players with wielding masterful strategies.
+-    An ever-expanding universe to explore dark caverns.
+-    Also, Unearth hidden powerful weapons and treasures.
+-    Besides, Build your deck to harness the power of amazing minions.
+-    Definitely, Competitive real-time (player vs. player) combat.
+-    Hearthstone Heroes of Warcraft offers to win, craft or collect powerful cards.
+-    Dominate your opponent\’s decks and Assemble powerfully.
+24.  Shadowverse CCG
+Shadowverse CCG is a strategic card game. Single player story mode, free card packs for new players, and bonuses everyday option makes this game most popular. One of the most addicted and favorite games through online or offline in this year with the 4.5-star rating.
+Main Features:
+-    The multitude of ways to play.
+-    New leader classes and game modes.
+-    The best plus point is, there\’s less RNG in Shadowverse than other card games
+-    TOO Community, overall millions Shadowverse battle.
+-    Furthermore, Beautiful art and animations and fully voiced cards.
+-    Moreover, in every three months, new card expansions are released.
+-    Especially, esports broadcasts tournaments every week and support for streamers.
+-    Every card is also fully-voiced in English and Japanese.
+-    Finally, battle tactics and new deck-building strategies for a new user.
+25. Clash of Clans
+Clash of Clans is the most strategic game and still favorite since 2014. Build your village then raise and clan, after that getting ready to compete in epic Clan Wars. Furthermore, Enter the world of Clash and defect your opponents with different troops, fire-wielding Wizards and mustachioed barbarians. Join the big community ever.
+Main Features:
+-    To get town hall fight back then upgrade town hall 12.
+-    Especially, Powerful bombs, traps, mortars, the multitude of cannons, and walls.
+-    Especially, Dangerous attack with Goblin King in the campaign.
+-    Also, Get unique battle strategies with countless combinations of iconic heroes and spells.
+-    Clash of Clans offers special events with fast attack and challenge.
+-    Besides, Train your battles by the level upgrade.
+-    Finally, Discover new buildings and characters in a mysterious world.
+26. The Room 3
+The Room 3 is a brilliant, uniquely tactile experience packed with incredible puzzles game all the time. Immersing yourself in this atmospheric mystery with its excellent graphics. More of a full-blown adventure game than other series.
+Main Features:
+-    Especially, The Room 3 includes rich atmosphere and clever puzzles.
+-    Enjoy a unique mix of intriguing mysteries with a simple user interface.
+-    A tactile experience with intuitive touch controls.
+-    Moreover, Dozens of new artifacts to discover their hidden secret.
+-    Furthermore, Dynamic sound effects create an unforgettable soundscape.
+-    Also, explore the world in miniature with new eyepiece ability.
+-    Share your progress between multiple devices.
+-    Finally, Magnified globes with lots of adventures.
+-    Multiple languages supported; English, French, Italian, Brazilian Portuguese, Turkish, German, Spanish and Russian.
+-    Expanded locations.
+27. Dragon Mania Legends
+Dragon Mania Legends is for dragon lovers, who want to pet dragon. Grab your dragon from almost 350+ dragon list and fun more. Your task is to pet the dragon and nurtured them well. With lots of cool features, a gamer will be more satisfied after playing this game.
+Main Features:
+-    Dragon Mania Legends provides 350+ dragon with different characteristics.
+-    Nurture your dragon correctly by feeding, cuddle and care
+-    Also, Receive extra gold and special bonuses.
+-    Besides, Customize your city with dozens of buildings and fun decorations.
+-    All the level includes a new adventure which makes this game pretty cool.
+-    Furthermore, Individual quests, new content and seasonal events are added with each update.
+-    Also, Improve your dragon\’s skills and teach them for special attacks.
+-    Additionally, Train your dragons well and makes them legendary warriors.
+28. Invasion: Modern Empire
+Invasion: Modern Empire is the most powerful military commander game. This real strategy android game is based on a war-themed. The challenge to your conquer and battle your way makes this game incredible.
+Main Features:
+-    Especially, Invasion: Modern Empire provides new gameplay, special events, unique chest.
+-    Particularly, RTS combat to rule the apocalypse.
+-    Customize your battles.
+-    Besides, Get the real-time panoramic map.
+-    Attack online in alliances and win the eclipse.
+-    Especially, the live chat option to find the perfect team.
+-    Also, the Modern Empire strategy makes this game fabulous.
+-   Furthermore, Dynamic sound quality and stunning graphics.
+-    Alliance hub features included.
+-    Fight for every inch of land and destroy your enemies.
+-     Additionally, It is a war-themed MMO game.
+-    Finally, the multiplayer option added.
+-    Upgrade and campaigning opportunities.
+29. Last Shelter: Survival
+Previous Shelter: Survival is a zombie based android war game. Now time to join the struggle of players around the world who are suffering in the zombie-infested wasteland. Join the significant community and diminish the zombies from the globe and makes the planet zombie-free.
+Main Features:
+-    Defect the zombies with powerful weapons.
+-    Furthermore, Use realistic maps to save the people from the zombie infested land.
+-    Last Shelter: Survival provides fully customizable building mechanic.
+-    Also, Join together from different parts of the world and destroy the zombies.
+-    Moreover, Get realistic massive multi-player gaming experience.
+-    In addition, Varieties of guns, shotguns, bombs, Knives are included.
+-    Dynamic sound quality makes this game different from others war based strategy games.
+-    This combat based zombie game comprises campaigning option.
+-    Along with, more exciting zombies everywhere for sucking blood.
+30. Badland
+Badland is the most challenging android strategy game. Enter the world with side-scrolling and get full of adventure set. Enjoy complete of various inhabitants, trees, and flowers in a gorgeous forest. There\’s something wrong and the number of imaginative traps and obstacles on the way.
+Main Features:
+ -   Especially, The forest appears to be right out of a beautiful fairy tale.
+-    Innovative physics-based gameplay.
+-     Besides, Atmospheric graphics and stunning audio.
+-    With up to four players cooperate with your friends and modified single player campaign.
+-    In addition, One-touch controls combined with innovative level design.
+-    Also, Get full support for game controllers.
+-    Finally, Includes immersive audio-visual gaming experience.
+-    Cloud Save and Immersive mode added in this strategy game.
+-    Update your game and get new challenging levels.
+-    For single player 100 genuinely unique levels.
+-    For multi-player 23 unparalleled level.
+
+
+    </string>
+    <string name="day7Task3">
+        Shop for Best Quality Washing Machine: Buy Washing Machine in Bangladesh at Bagdoom.com
+        Link: https://www.bagdoom.com/electronics/home-appliances/washing-machine.html
+        Bangladesh has been booming with e-Commerce sites, and Bagdoom has left no stones unturned. Reaching milestones within a few years after its launch, Bagdoom is one of the booming sources of online retail bringing authentic and quality products right at your doorsteps! One of the best collections of home appliances Bagdoom has to offer is the washing machines.
+        Bagdoom offers a wide range of brands, colors, and functionality. Whether you require one that is for heavy use or one that is for occasional use, Bagdoom has it all. Moreover, they are offering multiple discounts and sales on desirable products. So you better hurry and start browsing.
+        Washing Machine: An Essential Item for Every Household
+        In a modern-day world where everyone is busy with work or education, it is hard to manage time to perform all chores from scratch. A washing machine is a time and energy saver. It is crucial equipment for every household. You can dump your clothes that do not need a delicate wash with a handful of washing powder. Your clothes will come out clean and smell fresh.
+        Washing clothes by hand is a laboring task that doesn\’t always have a fruitful outcome. A washing machine uses strong force to get rid of the stubborn stain from clothes. Food stains, field dirt, soft drinks, paint, you name it. A washing machine is a solution to all such problems. You will no longer need to spend hours of the day scrubbing shirts. Due to less scrubbing, the material sustained for a longer time. To fulfill such laundry needs, Bagdoom is offering washing machines from renowned brands; such as Samsung, Whirlpool, Panasonic, and LG.
+        Your Oder Is In Good Hands
+        You may worry about the products not being authentic or poor customer support. Bagdoom assures you that there is nothing to worry about. Bagdoom has a strong support team that will safely deliver products. The products are authentic, so you do not need to worry about fakes or replicas. By any chance your product is malfunctioning; Bagdoom has warranty or guaranty depending on each product. They also have a strong customer support team. The support team is ready to answer all your queries. If you are having a hard time choosing a product, the support team can help you with it as well.
+        The Best Technology at Its Best Price
+        The washing machines that are advertised by Bagdoom contain upgraded technology. They consist of flexible features. Not only that but also they have an inbuilt heater for the hot wash. They include high capacity so that it can wash some clothes at a time. Even, they have auto-tub clean to reduce your work. They have a specific wash feature for quick washing. There are endless features to consider! Just by pressing a few buttons, you can receive desirable output.
+        All of these features come at high prices! Bagdoom ensures quality products at a reasonable rate. An excellent retail store should focus on selling products that are affordable for the majority of people. That is the motive of Bagdoom. There are plenty of sales and offers to occur throughout the year. You can order any time at your convenience and receive the best of the bunch.
+        What Is The Washing Machine Ruined My Clothes?
+        We all are aware that washing machines are for harsh use and cannot handle delicate material. Well, you are wrong! The new range of products that Bagdoom is offering is worth the try. These washing machines can feel a delicate wash. These are unlikely to ruin your soft cotton saree. The only precaution you must take is not to mix up white clothes with colored clothes. The colored clothes leak dye. When these categories go into the same wash, your white clothes will become colored. Besides this fact, you are free to wash any material on these machines and expect neatness.
+        Conclusion:
+        Washing machines are equipment that will always come in handy. Firstly, it may be tough to fit in an hour of shopping your busy schedule. Secondly, it may seem that once you complete your work, all retail stores close down by then. In contrast, Bagdoom offers a comfortable shopping experience that can be done from home or office at any time during the day. You can quickly order any product you like, and Bagdoom will be present with it within a short delivery time. The steps to place an order are easy and accessible. So what are you waiting for? Hurry up; you do not want to miss this. Check out Bagdoom\’s exciting washing machine collection now!
+
+
+    </string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Day04">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="8"
+        android:padding="5px"
+        >
+
+        <TextView
+            android:id="@+id/day_4_txt"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Day 04"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:padding="5dp"
+            android:background="#aba1a1"
+            android:textColor="#fff"
+            android:textAllCaps="false"
+            />
+        <Button
+            android:id="@+id/day_4_tsk1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Task 01"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk1"
+
+            />
+        <Button
+            android:id="@+id/day_4_tsk2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Task 02"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk2"
+
+            />
+        <Button
+            android:id="@+id/day_4_tsk3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Task 03"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk3"
+
+            />
+        <Button
+            android:id="@+id/day_4_tsk4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Practice Kit"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk4"
+
+            />
+        <Button
+            android:id="@+id/day_4_tsk5"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Home Work"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk5"
+
+            />
+        <Button
+            android:id="@+id/day_4_tsk6"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Exam Paper"
+            android:textSize="20sp"
+            android:textAllCaps="false"
+            android:onClick="day_4_tsk6"
+
+            />
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:paddingBottom="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-5376079706371809/9114085225"></com.google.android.gms.ads.AdView>
+
+    </LinearLayout>
+</LinearLayout>

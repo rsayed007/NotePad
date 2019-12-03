@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ABFFACAC"
+    android:padding="5dp"
+    tools:context=".Day1Task4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="9">
+
+        <EditText
+            android:id="@+id/et_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="5px"
+            android:hint="Your name.."
+            android:layout_marginTop="10px"
+            android:textSize="24dp"
+            android:background="#fff"
+            android:padding="10dp"
+            android:inputType="textMultiLine" />
+
+        <EditText
+            android:id="@+id/et_brand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="5px"
+            android:layout_marginTop="8dp"
+            android:hint="Task Name..."
+            android:background="#fff"
+            android:gravity="start"
+            android:textSize="20dp"
+            android:padding="10dp"
+            android:inputType="textPersonName" />
+        <EditText
+            android:id="@+id/et_description"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="5px"
+            android:layout_marginTop="8dp"
+            android:inputType="textMultiLine"
+            android:hint="Task answer..."
+            android:gravity="start"
+            android:textSize="20dp"
+            android:padding="10dp"
+            android:background="#fff"
+            />
+
+        <Button
+            android:id="@+id/btn_add_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="49dp"
+            android:padding="10dp"
+            android:text="Submit"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingBottom="5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-5376079706371809/4037728803"></com.google.android.gms.ads.AdView>
+
+</LinearLayout>
